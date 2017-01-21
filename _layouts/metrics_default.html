@@ -1,0 +1,96 @@
+
+<html>
+<head>
+  <meta charset=utf-8 />
+  <meta name='robots' content='{% if page.hidden %}noindex{% else %}index{% endif %}'/>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <meta property='og:site_name' content='OpenStreetMap - Geography Awareness Week' />
+  <meta property='og:url' content='{{page.permalink}}' />
+  <meta property='og:title' content='{{page.title | replace:"'","&lsquo;"}}' />
+  <meta property='og:description' content="{{page.twitter-description}}" />
+  <meta property='og:type' content='website' />
+
+  <!-- Twitter Cards -->
+
+  <meta name='twitter:card' content='summary_large_image' />
+  <meta name='twitter:site' content='@osmgeoweek' />
+  <meta name='twitter:title' content='{{page.title | replace:"'","&lsquo;"}}' />
+  <meta name='twitter:description' content="{{page.twitter-description}}" />
+
+  {% if page.image %}
+  <meta name='twitter:image' content='{{page.image | replace:"https:","http:"}}' />
+  <meta name='st:image' content='{{page.image | replace:"https:","http:"}}' />
+  <meta property='og:image' content='{{page.image | replace:"https:","http:"}}' />
+  {% else %}
+  <meta name='twitter:image' content='http://osmgeoweek.org/img/twittercard.png' />
+  <meta name='st:image' content='http://osmgeoweek.org/img/twittercard.png' />
+  <meta property='og:image' content='http://osmgeoweek.org/img/twittercard.png' />
+  {% endif %}
+
+  <title>{% if page.url == "/"  %}{% else %}{{page.title}} | {% endif %}OpenStreetMap Geography Awareness Week</title>
+
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans:300italic,400italic|Montserrat:700|Asap:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
+  <link href='http://fonts.googleapis.com/css?family=Kreon:400,700' rel='stylesheet' type='text/css'>
+  <link href='{{site.baseurl}}/base/base.css' rel='stylesheet' />
+  <link href='{{site.baseurl}}/site.css' rel='stylesheet' />
+  <link href='//api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.css' rel='stylesheet' />
+  <script src='//api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.js'></script>
+  <script src='{{site.baseurl}}/site.js'></script>
+
+  <!-- Google Analytics -->
+  {% if site.ga.enabled == true %}
+    {% include analytics_ga_snippet.html %}
+  {% endif %}
+
+  <!--new additions-->
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{site.baseurl}}/metrics/leaflet.css" type="text/css"/>
+  <link rel="stylesheet" href="{{site.baseurl}}/metrics/style.css" type="text/css" media="screen" title="no title" charset="utf-8">
+
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+  <!--<link rel="shortcut icon" href="https://developmentseed.org/assets/graphics/meta/favicon.ico" type="image/x-icon">-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+</head>
+
+
+<body class='{% if page.url == "/index.html" %}front{% endif %}'>
+
+<div class='fill-dark dark'>
+<div class='site-navigation text-right space col12 pad2'>
+  <a href='{{site.baseurl}}/index.html' class='fl logo-text'><span class='text-green'>#</span><span class='text-white'>osm</span><span class='text-green'>geo</span><span class='text-white'>week</span></a>
+  <!-- <a class='strong {% if page.url contains "about" %}active{% endif %}' href='{{site.baseurl}}/about/'>About</a> -->
+  <a class='small {% if page.url contains "events" or page.category == "event" %}active{% endif %}' href='{{site.baseurl}}/events/'>Events</a>
+  <a class='small {% if page.url contains "projects" or page.category == "project" %}active{% endif %}' href='{{site.baseurl}}/projects/'>Projects</a>
+  <a class='small {% if page.url contains "plan" %}active{% endif %}' href='{{site.baseurl}}/plan/'>Guides</a>
+  <a class='small {% if page.url contains "metrics" %}active{% endif %}' href='{{site.baseurl}}/metrics/'>Metrics</a>
+  <a class='small' href='http://osmstories.org/' target="_blank">OSM Stories</a>
+  </div>
+</div>
+
+
+<div class='fill-green dark'>
+  <div class='limiter'>
+    <div class='pad2y'>
+      <h1 class='center'>{{page.title}}</h1>
+      <p class='prose-big'></p>
+    </div>
+  </div>
+</div>
+
+{{content}}
+
+
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="{{site.baseurl}}/metrics/leaflet.js" type="text/javascript" charset="utf-8"></script>
+
+//It will read the main.js file and process_timeline.js file from the same folder it is in
+<script src="process_timeline.js" type="text/javascript" charset="utf-8"></script>
+<script src="main.js" type="text/javascript" charset="utf-8"></script>
+
+
+</body>
+</html>

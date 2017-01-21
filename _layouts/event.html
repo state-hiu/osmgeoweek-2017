@@ -1,0 +1,28 @@
+---
+layout: page
+category: schedule
+---
+
+<div class='fr fill-light round pad2 space-bottom2 margin0'>
+  <div>
+    Day: <strong>{{ page.date | date: "%A" }}</strong>
+  </div>
+  <div>
+    Time: <strong>{{page.time}}</strong>
+  </div>
+  <!--<div>
+    Location: <strong>{{page.room}}</strong>
+  </div>-->
+</div>
+
+<div class='speaker-byline'>
+  {% if page.twitter %}<a href='http://twitter.com/{{page.twitter}}'>{% endif %}
+  {% if page.speaker != null %}
+    {{page.organization}}, {{page.speaker}}
+  {% else %}
+    {{page.organization}}
+  {% endif %}
+  {% if page.twitter %}</a>{% endif %}
+</div>
+
+{{content}}

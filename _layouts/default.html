@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <meta name='robots' content='{% if page.hidden %}noindex{% else %}index{% endif %}'/>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <meta property='og:site_name' content='OpenStreetMap - Geography Awareness Week' />
+  <meta property='og:url' content='{{page.permalink}}' />
+  <meta property='og:title' content='{{page.title | replace:"'","&lsquo;"}}' />
+  <meta property='og:description' content='{{page.twitter-description}}' />
+  <meta property='og:type' content='website' />
+
+  <!-- Twitter Cards -->
+
+  <meta name='twitter:card' content='summary_large_image' />
+  <meta name='twitter:site' content='@osmgeoweek' />
+  <meta name='twitter:title' content='{{page.title | replace:"'","&lsquo;"}}' />
+  <meta name='twitter:description' content="{{page.twitter-description}}" />
+
+  {% if page.image %}
+  <meta name='twitter:image' content='{{page.image | replace:"https:","http:"}}' />
+  <meta name='st:image' content='{{page.image | replace:"https:","http:"}}' />
+  <meta property='og:image' content='{{page.image | replace:"https:","http:"}}' />
+  {% else %}
+  <meta name='twitter:image' content='http://osmgeoweek.org/img/twittercard.png' />
+  <meta name='st:image' content='http://osmgeoweek.org/img/twittercard.png' />
+  <meta property='og:image' content='http://osmgeoweek.org/img/twittercard.png' />
+  {% endif %}
+
+  <title>{% if page.url == "/"  %}{% else %}{{page.title}} | {% endif %}OpenStreetMap Geography Awareness Week</title>
+
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans:300italic,400italic|Montserrat:700|Asap:400,700' rel='stylesheet' type='text/css'>
+  
+  <link rel="shortcut icon" type="image/ico" href="{{ site.baseurl }}/favicon.ico" />
+
+  <link href='http://fonts.googleapis.com/css?family=Kreon:400,700' rel='stylesheet' type='text/css'>
+  <link href='{{site.baseurl}}/base/base.css' rel='stylesheet' />
+  <link href='{{site.baseurl}}/site.css' rel='stylesheet' />
+  <link href='//api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.css' rel='stylesheet' />
+  <script src='//api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.js'></script>
+  <script src='{{site.baseurl}}/site.js'></script>
+  <!-- Google Analytics -->
+  {% if site.ga.enabled == true %}
+    {% include analytics_ga_snippet.html %}
+  {% endif %}
+
+  <!--Transifex snippet-->
+  <script type="text/javascript">window.liveSettings={api_key:"1cc56f8d67ca43888bf9dc947e99963a"}</script>
+  <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
+
+</head>
+<body class='{% if page.url == "/index.html" %}front{% endif %}'>
+
+<div class='fill-dark dark'>
+<div class='site-navigation text-right space col12 pad2'>
+  <a href='{{site.baseurl}}/index.html' class='fl logo-text'><span class='text-red-orange'>#</span><span class='text-white'>osm</span><span class='text-red-orange'>geo</span><span class='text-white'>week</span></a>
+  <!-- <a class='strong {% if page.url contains "about" %}active{% endif %}' href='{{site.baseurl}}/about/'>About</a> -->
+  <a class='small {% if page.url contains "events" or page.category == "event" %}active{% endif %}' href='{{site.baseurl}}/events/'>Events</a>
+  <a class='small {% if page.url contains "projects" or page.category == "project" %}active{% endif %}' href='{{site.baseurl}}/projects/'>Projects</a>
+  <a class='small {% if page.url contains "guides" %}active{% endif %}' href='{{site.baseurl}}/guides/'>Guides</a>
+  <!--
+  <a class='small {% if page.url contains "metrics" %}active{% endif %}' href='{{site.baseurl}}/metrics/'>Metrics</a>
+-->
+  <a class='small' href='http://osmstories.org/' target="_blank">OSM Stories</a>
+  </div>
+</div>
+
+<!--
+<div class='fill-red'>
+  <div class='liner clearfix center fill-darken3 dark col12'>
+    <h3 class='pad2'><a href="/result/">Check out the results from OSMGeoWeek. Stats, photos, visualizations</a></h3>
+  </div>
+</div>
+-->
+
+{{content}}
+
+<div class='pad2x show-mobile'>
+  <a href='#sponsors' class='button block'>Supporters</a>
+</div>
+
+
+<section id='sponsors' class='hide-mobile col12 center fill-light pad2y'>
+  <div class='limiter clearfix'>
+    <div class='col10 margin1'>
+      <h2 class='space-bottom1'>Participating Groups</h2>
+
+      <!--
+      <nav class='space-bottom2'>
+        <a href='http://www.nationalgeographic.com/' class='sponsor natgeo'>National Geographic</a>
+      </nav>
+      -->
+      <nav class='space-bottom2'>
+        <!--<a href='http://openstreetmap.us/' class='sponsor osmus'>OpenStreetMap US</a>0-->
+        <!--<a href='http://hot.openstreetmap.org/' class='sponsor hot'>HOT</a>-->
+        <a href='https://hotosm.org/' >
+           <img src="{{site.baseurl}}/img/logos/HOT_transparent.png" style="height:60px;margin-top: 20px;margin-left: 35px;">
+        </a>
+
+        <a href='http://mapgive.state.gov/' >
+           <img src="{{site.baseurl}}/img/logos/mapgive_transparent.png" style="height:55px;margin-top: 20px;">
+        </a>
+        
+        
+        <a href='http://www.redcross.org/' >
+           <img src="{{site.baseurl}}/img/logos/redcross-logo.png" style="height:65px;margin-top: 20px;">
+        </a>
+
+        <a href='http://www.missingmaps.org/' >
+           <img src="{{site.baseurl}}/img/logos/missingmaps.svg" style="height:70px;margin-top: 20px;">
+        </a>
+
+	      <a href='https://www.usaid.gov/GlobalDevLab' >
+	         <img src="{{site.baseurl}}/img/logos/usaid.png" style="height:105px;">
+	      </a>
+        <a href='http://www.youthmappers.org/' >
+           <img src="{{site.baseurl}}/img/logos/youthmappers_transparent.png" style="height:65px;margin-top: 15px;">
+        </a>
+        <a href='http://openstreetmap.us/' >
+           <img src="{{site.baseurl}}/img/logos/OSM_US_transparent.png" style="height:75px;margin-left: 5px;">
+        </a>
+        <a href='http://www.nationalgeographic.com/' >
+           <img src="{{site.baseurl}}/img/logos/natgeo_transparent.png" style="height:55px;">
+        </a>
+        <a href='http://www.peacecorps.gov/' >
+	        <img src="{{site.baseurl}}/img/logos/peacecorps.svg" style="height:55px;">
+	      </a>
+        <a href='https://www.gfdrr.org/' >
+	        <img src="{{site.baseurl}}/img/logos/gfdrr_transparent.png" style="height:55px;margin-top: 15px;">
+	    </a>
+        <a href='http://eca.state.gov/programs-initiatives/international-education-week' >
+	        <img src="{{site.baseurl}}/img/logos/IEW_inverse.png" style="height:70px;margin-top: 10px;">
+	      </a>
+        <a href='http://opengovhub.org/' >
+	        <img src="{{site.baseurl}}/img/logos/opengovhub_transparent.png" style="height:85px;">
+	      </a>
+        <a href='http://kathmandulivinglabs.org/' >
+	        <img src="{{site.baseurl}}/img/logos/kll.png" style="height:85px;">
+	      </a>
+
+        <a href='https://www.mapbox.com' >
+	        <img src="{{site.baseurl}}/img/logos/mapbox_logo.png" style="height:60px;margin-top:20px">
+	      </a>
+         <a href='http://secondarycities.state.gov/' >
+	        <img src="{{site.baseurl}}/img/logos/2C_LogoWhiteOnBlue.png" style="height:75px;margin-top:15px">
+	      </a>
+
+         <a href='http://www.pepfar.gov/' >
+	        <img src="{{site.baseurl}}/img/logos/PEPFAR_Logo_transparent.gif" style="height:90px;margin-top:10px">
+	      </a>
+
+          <a href='http://www.geocensos.com/' >
+	        <img src="{{site.baseurl}}/img/logos/geocensos_logo.png" style="height:55px;margin-top:25px">
+	      </a>
+<!--
+        <a href='http://americangeo.org/' >
+          <img src="{{site.baseurl}}/img/logos/ags.jpg" style="height:105px;">
+        </a>-->
+      </nav>
+    </div>
+  </div>
+</section>
+
+<section class='fill-white pad2y center'>
+  <div class='limiter'>
+    <p><strong>Interested in participating?</strong> Email <a href='mailto:mapgive@state.gov'>mapgive@state.gov</a> to learn more. <strong>Visit this site's <a href='https://github.com/state-hiu/osmgeoweek-2016'>Github repository</a></strong></p>
+  </div>
+</section>
+<footer class='col12 center fill-dark dark'>
+  <div class='pad2y col12'>
+    <div class='limiter'>
+      <p class='small hide-mobile'>
+        <a href='http://osmgeoweek.org'>Geography Awareness Week - OpenStreetMap</a> | <a href='https://twitter.com/search?q=%23osmgeoweek&src=typd'>#osmgeoweek</a> | Photo credits: USAID, 596 acres, UCSB, Kerri Lee Smith, Peace Corps The Gambia, Becky Carnes 
+<!-- https://www.flickr.com/photos/usaid_images/11712673254/ -->
+<!-- http://596acres.org/en/ -->
+<!-- http://helios.geog.ucsb.edu/events/department-news/963/ucsb-geography-promotes-the-adventure-in-your-community-for-geography-awareness-week/ -->
+<!-- https://www.flickr.com/photos/77654185@N07/8082899697 -->
+      </p>
+      <a href='https://twitter.com/search?q=%23osmgeoweek&src=typd' class='show-mobile small dark'>#osmgeoweek</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

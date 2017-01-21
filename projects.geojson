@@ -1,0 +1,45 @@
+---
+---
+{
+  "type": "FeatureCollection",
+  "features": [{% assign places = (site.posts | where: "category", "project") %}
+    {% for place in places %}
+     {% if place.aoi %}
+      {% for coord in place.aoi %}
+      {% if notfirst == true %},{% else %}{% assign notfirst = true %}{% endif %}{
+      "type": "Feature",
+      "properties": {
+        "title": "{{ place.title }}",
+        "url": "{{site.url}}{{place.url}}"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates":[
+          [
+            [
+              {{ coord.east }},
+              {{ coord.south }}
+            ],
+            [
+              {{ coord.east }},
+              {{ coord.south }}
+            ],
+            [
+              {{ coord.west }},
+              {{ coord.south }}
+            ],
+            [
+              {{ coord.west }},
+              {{ coord.north }}
+            ],
+            [
+              {{ coord.east }},
+              {{ coord.north }}
+            ]
+          ]
+        ]
+      }
+    }
+    {% endfor %}{% endif %}{% endfor %}
+  ]
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 50 50"
+   style="enable-background:new 0 0 50 50;"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="building-osmgeoweek.svg"><metadata
+     id="metadata17"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs15" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1232"
+     inkscape:window-height="752"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="4.72"
+     inkscape:cx="24.788136"
+     inkscape:cy="25"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" /><style
+     type="text/css"
+     id="style3">
+	.st0{fill:#00CC99;stroke:#00CC99;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#00CC99;stroke-width:2;stroke-miterlimit:10;}
+</style><g
+     id="g5"
+     style="fill:#8cc250;fill-opacity:1;stroke:#8cc250;stroke-opacity:1"><path
+       class="st0"
+       d="M10.8,18.4l-6.7,6.3h3.9v20.3h33.7V24.7h4.4L24.2,4.8l-8.7,8.7L13.9,15L10.8,18.4z M20.4,37.6   c0,0.8-0.7,1.5-1.5,1.5h-6.1c-0.8,0-1.5-0.7-1.5-1.5V27.4c0-0.8,0.7-1.5,1.5-1.5h6.1c0.8,0,1.5,0.7,1.5,1.5V37.6z M36,43.2H25.2   V25.9H36V43.2z"
+       id="path7"
+       style="fill:#8cc250;fill-opacity:1;stroke:#8cc250;stroke-opacity:1" /></g><line
+     class="st1"
+     x1="15.8"
+     y1="24.9"
+     x2="15.8"
+     y2="40.5"
+     id="line9"
+     style="fill-opacity:1;fill:#8cc250;stroke:#8cc250;stroke-opacity:1" /><line
+     class="st1"
+     x1="8.6"
+     y1="30.8"
+     x2="21.9"
+     y2="30.8"
+     id="line11"
+     style="fill-opacity:1;fill:#8cc250;stroke:#8cc250;stroke-opacity:1" /></svg>

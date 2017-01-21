@@ -1,0 +1,127 @@
+---
+layout: default
+title: Events
+twitter-description: Sign up for an event near you or plan your own mapathon. You can contribute to mapping projects around the world and explore the power of maps! Get in touch, we're happy to help!
+dates:
+  - id: 'pre-event'
+    name: Events starting early
+  - id: '2016-11-13'
+    name: Sunday, November 13th
+  - id: '2016-11-14'
+    name: Monday, November 14th
+  - id: '2016-11-15'
+    name: Tuesday, November 15th
+  - id: '2016-11-16'
+    name: Wednesday, November 16th
+  - id: '2016-11-17'
+    name: Thursday, November 17th
+  - id: '2016-11-18'
+    name: Friday, November 18th
+  - id: '2016-11-19'
+    name: Saturday, November 19th
+---
+
+<div class='fill-red-orange dark'>
+  <div class='limiter'>
+    <div class='pad2y'>
+      <h1 class='space-bottom1 space-top4'>Events</h1>
+      <p class='prose-big'> Find an event near you. Or, let us know if you are <a href="{{site.baseurl}}/plan/">planning an event</a>, <a href="http://goo.gl/forms/bBI3pQ1IE6">submit the details</a> or </a><a href="mailto:mapgive@state.gov">get in touch</a>!</p>
+    </div>
+  </div>
+</div>
+
+{% include dc_map.html %}
+
+  {% for date in page.dates %}
+
+      <div class='pad2y'>
+        <div class='limiter'>
+          <div class='col12 quiet space-bottom1  {% unless forloop.index == 1 %}keyline-top{% endunless %}'>
+            <h3 class='col12 pad2y'>
+              {{date.name}}
+            </h3>
+          </div>
+          <div class='col12 pad1y'>
+
+            {% for item in site.categories.event %}
+
+                  {% assign display = null %}
+
+                  {% for tag in item.tags %}
+                    {% if tag == "dc" %}{% assign display = true %}{% endif %}
+                  {% endfor %}
+
+                  {% capture my_variable %}{{ item.date | date: "%Y-%m-%d" }}{% endcapture %}
+
+                  {% if date.id  == 'pre-event' %}
+
+                      {% if item.pre-event  == true %}
+
+                      {% if display == true %}
+
+                        <div class='col12 pad1y clearfix {% if item.highlight == true %}highlight{% endif %}'>
+                        <div>
+                          <div class='headline clearfix space-bottom1'>
+                            <h2><a href='{{site.baseurl}}/{{item.permalink}}'>{{item.title}}</a></h2>
+                            <span class='text-right quiet'>{{item.location}}</span>
+                            <span class='strong'>
+                            {{item.time}} | {{ item.date | date: "%A, %B %-d" }}
+                          </span>
+                          </div>
+
+                          <p><p>
+                            {% if item.thumbnail %}
+                              <img src="{{ item.thumbnail }}" style="height: 280px" align="center" />
+                            {% endif %}
+                          <p>
+
+                          <div class='prose schedule'>
+                            {{item.excerpt}}
+                          </div>
+                        </div>
+                      </div>
+
+                      {% endif %}
+
+                      {% endif %}
+
+
+
+                  {% elsif my_variable contains date.id %}
+
+                  {% if display == true %}
+
+                      <div class='col12 pad1y clearfix {% if item.highlight == true %}highlight{% endif %}'>
+                        <div>
+                          <div class='headline clearfix space-bottom1'>
+                            <h2><a href='{{site.baseurl}}/{{item.permalink}}'>{{item.title}}</a></h2>
+                            <span class='text-right quiet'>{{item.location}}</span>
+                            <span class='strong'>
+                            {{item.time}} | {{ item.date | date: "%A" }}
+                          </span>
+                          </div>
+
+                          <p><p>
+                            {% if item.thumbnail %}
+                              <img src="{{ item.thumbnail }}" style="height: 280px" align="center" />
+                            {% endif %}
+                          <p>
+
+                          <div class='prose schedule'>
+                            {{item.excerpt}}
+                          </div>
+                        </div>
+                      </div>
+                  {% endif %}
+                  {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+  {% endfor %}
+
+</div>
+
+  
+

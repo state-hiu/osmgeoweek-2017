@@ -1,0 +1,137 @@
+---
+layout: default
+title: Projects
+twitter-description: Sign up for an event near you or plan your own mapathon. You can contribute to mapping projects around the world and explore the power of maps! Get in touch, we're happy to help!
+---
+
+
+<div class='fill-red-orange dark'>
+  <div class='limiter'>
+    <div class='pad2y'>
+      <h1 class='space-bottom1 space-top4'>Projects</h1>
+      <p class='prose-big'> Choose from remote and local mapping tasks below.</p>
+    </div>
+  </div>
+</div>
+
+
+<div class='limiter'>
+
+    <h3 class='space-top4 quiet'>Remote Projects</h3>
+
+</div>
+
+<div class='limiter clearfix'>
+
+{% for post in site.categories.project %}
+  {% assign display = null %}
+  {% assign ready = null %}
+  {% for tag in post.tags %}
+    {% if tag == "remote" %}
+      {% assign display = true %}
+    {% elsif tag == "ready" %}
+      {% assign ready = true %}
+    {% elsif tag == "notfeatured" %}
+      {% assign display = false %}
+    {% endif %}
+  {% endfor %}
+  {% if display == true %}
+    <div class='col12 pad1y {% if ready %}ready{% endif %}'>
+      <h2><a href="{{site.baseurl}}/{{post.permalink}}">{{ post.title }}</a></h2>
+      <h3 class='quiet'>{{ post.subtitle }}</h3>
+
+      <p><p>
+      {% if post.thumbnail %}
+        <img src="{{ post.thumbnail }}" style="height: 180px" align="center" />
+      {% endif %}
+      <p>
+
+      <!--<p>{{ post.excerpt | remove: '<p>' | remove: '</p>'  }}</p>-->
+      {{ post.excerpt | strip_html }}
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
+
+<!--deactivate until we get a local project
+<div class='fill-blue'>
+  <div class='liner clearfix center col12'>
+    <h2 class='pad2'>Local Projects</h2>
+  </div>
+</div>
+-->
+
+<div class='limiter pad4y clearfix'>
+
+{% for post in site.categories.project %}
+  {% assign display = null %}
+  {% assign ready = null %}
+  {% for tag in post.tags %}
+    {% if tag == "local" %}{% assign display = true %}{% elsif tag == "ready" %}{% assign ready = true %}{% endif %}
+  {% endfor %}
+  {% if display == true %}
+    <div class='keyline-all pad4 space-bottom4 project-tile {% if ready %}ready{% endif %}'>
+      <h2><a href="{{site.baseurl}}/{{post.permalink}}">{{ post.title }}</a></h2>
+      <h3>{{ post.subtitle }}</h3>
+      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>'  }}</p>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
+
+<!--
+<script>
+var map = L.mapbox.map('map',  null, { infoControl: false, attributionControl: true });
+// map.attributionControl.setPrefix('');
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '<a href="http://osm.org/copyright">&copy; OpenStreetMap contributors</a>'
+}).addTo(map)
+
+map.setView([38.90488528254173, -77.02296316623688], 16);
+map.scrollWheelZoom.disable();
+
+map.featureLayer.setGeoJSON(venues);
+
+var info = document.getElementById('info');
+var count = 0;
+
+// Iterate through each feature layer item, build a
+// marker menu item and enable a click event that pans to + opens
+// a marker that's associated to the marker item.
+map.featureLayer.eachLayer(function(marker) {
+  count++
+  var link = info.appendChild(document.createElement('a'));
+  link.className = 'item small keyline-bottom pad1';
+  link.href = '#';
+
+  // Populate content from each markers object.
+  link.innerHTML = '<span class="dot inline marker-dot" style="background-color:' + marker.feature.properties['marker-color'] + ';"></span>' + marker.feature.properties.title;
+
+  if (count === 1) {
+    map.panTo(marker.getLatLng());
+    marker.openPopup();
+    link.className += ' active';
+  }
+
+  link.onclick = function() {
+    if (/active/.test(this.className)) {
+      this.className = this.className.replace(/active/, '').replace(/\s\s*$/, '');
+    } else {
+      var siblings = info.getElementsByTagName('a');
+      for (var i = 0; i < siblings.length; i++) {
+        siblings[i].className = siblings[i].className
+          .replace(/active/, '').replace(/\s\s*$/, '');
+      };
+      this.className += ' active';
+
+      // When a menu item is clicked, animate the map to center
+      // its associated marker and open its popup.
+      map.panTo(marker.getLatLng());
+      marker.openPopup();
+    }
+    return false;
+  };
+});
+
+</script>
+-->

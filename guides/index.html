@@ -1,0 +1,198 @@
+---
+layout: default
+title: Guides
+published: true
+twitter-description: Sign up for an event near you or plan your own mapathon. You can contribute to mapping projects around the world and explore the power of maps! Get in touch, we're happy to help!
+---
+
+
+<div class='fill-red-orange dark'>
+  <div class='limiter'>
+    <div class='pad2y'>
+      <h1 class='space-bottom1 space-top4'>Guides for Mappers and Event Planners</h1>
+      <p class='prose-big'> Choose from mapping and event planning resources.</p>
+    </div>
+  </div>
+</div>
+<!--
+<div class='limiter pad4y clearfix'>
+<h1>Choose from guides for mappers and planners below.</h1>
+</div>
+-->
+
+
+
+
+<div class='limiter clearfix'>
+
+    <h3 class='space-top4 pad2y quiet'>Mapper Resources</h3>
+
+    <div class='col12 clearfix'>
+
+        <div class='col7 margin1r'>
+        {% assign sorted_pages = (site.categories.guide | sort: 'date') %}
+        {% for post in sorted_pages reversed %}
+          {% assign display = null %}
+          {% assign ready = null %}
+          {% for tag in post.tags %}
+            {% if tag == "mapper" %}
+              {% assign display = true %}
+            {% elsif tag == "notfeatured" %}
+              {% assign display = false %}
+            {% endif %}
+          {% endfor %}
+          {% if display == true %}
+            <div class='pad1y'>
+              <h2><a href="{{site.baseurl}}/{{post.permalink}}">{{ post.title }}</a></h2>
+              <p>{{ post.excerpt | markdownify | strip_html | remove: '<p>' | remove: '</p>' }}</p>
+            </div>
+          {% endif %}
+        {% endfor %}
+        </div>
+
+        <div class='col3 fill-light round pad2 space-bottom4'>
+          <h3><a href="{{site.baseurl}}/osm-institutions">OSM Institutions</a></h3>
+          <p class='small'>Learn more about the institutions supporting OSM Geographic Awareness Week</p>
+        </div>
+
+    </div>
+
+</div>
+
+<div class='limiter space-top4'>
+    <h3 class='quiet' id="planners">Event Planner Resources</h3>
+
+</div>
+
+
+<div class='limiter pad2y clearfix'>
+{% assign sorted_pages = (site.categories.guide | sort: 'date') %}
+{% for post in sorted_pages %}
+  {% assign display = null %}
+  {% assign ready = null %}
+  {% for tag in post.tags %}
+    {% if tag == "planner" %}
+      {% assign display = true %}
+    {% elsif tag == "notfeatured" %}
+      {% assign display = false %}
+    {% endif %}
+  {% endfor %}
+  {% if display == true %}
+    <div class='pad1y'>
+      <h2><a href="{{site.baseurl}}/{{post.permalink}}">{{ post.title }}</a></h2>
+      <h3>{{ post.subtitle }}</h3>
+      <p class='simple-text'>{{ post.excerpt | markdownify | strip_html  }}</p>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
+
+<!--
+<div class='limiter pad4y clearfix'>
+  <div class='col8 margin2'>
+
+    <div class='keyline-all pad4 space-bottom4'>
+      <h2>We are collecting and building resources to help you to organize your event</h2>
+      <hc>We're days away from posting a Content Guide for food-related events here, to give you some guidance on planning your event.</hc></br>
+      <hc>We'll also post the guide at the <a href="http://osmlab.github.io/teachosm/en/">TeachOSM site</a> (<i>under development</i>)
+       so you can use it for future lesson plans, project ideas<br/>
+        or for your classroom, seminar, club.
+      </hc>
+    </div>
+
+    <div class='keyline-all pad4 space-bottom4 prose'>
+      <ul>
+<li>Your can plan an outside surveying event, an inside editing event, or a mix of both. But please keep the theme related to food and food resources. Use National Geographic's <a href="http:geographyawarenessweek.org/">Geography Awareness Week</a> resources to generate ideas.</li>
+<li>Add anything food-related to the map: groceries, restaurants, grain elevators, urban farms, community gardens, ...you name it.</li>
+<li>Design your event friendly to newcomers. Make sure there's someone available to instruct on how to survey using <a href="http://fieldpapers.org/">Field Papers</a> and how to edit OpenStreetMap using the Id editor.</li>
+<li>Your event location should preferably have fast internet, comfortable seating, and work tables. If you're working at a school, bear in mind that their technologies might be constrained (older equipment, no admin privileges, etc.). In those cases, plan for work-arounds.</li>
+<li>Changes committed to OpenStreetMap should contain the hashtag, <b>#OSMGeoweek</b> in the changeset comment.</li>
+<li>Link to a post-event survey to gauge interest and ideas for improving future events.</li>
+       </ul>
+    </div>
+  </div>
+</div>
+
+
+How can you help map it?
+On Friday 7 November, Guardian Cities readers like yourself will set out to map Baraka. You can join in from your bedroom – all you need is a laptop. But you won’t be alone: about 80 people will be mapping in person at Guardian HQ in London, and there are eight other simultaneous events around the world, from San Francisco to Jakarta.
+
+But how do you actually map?
+
+1. Set up an account at OpenStreetMap.
+
+2. Watch this video and follow along.
+
+
+The video will talk you through the process of mapping, and you will practice mapping a place you’ve never visited.
+
+3. Choose a mapping task.
+
+
+Our task will be Baraka, #727. It will go live on Friday 7 November at 7.00pm GMT, at which point you’ll be able to start mapping the city.
+
+The guide is also are available here, and below are two other helpful resources:
+
+• Another excellent guide from LearnOSM.
+• The Missing Maps London launch wiki, with links to other resources.
+
+Good luck, and do please join our mapping party on Twitter using #missingmaps – we’ll tweet photos and updates as the evening progresses, and encourage you to do the same.
+
+-->
+
+<!--
+<script>
+var map = L.mapbox.map('map',  null, { infoControl: false, attributionControl: true });
+// map.attributionControl.setPrefix('');
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '<a href="http://osm.org/copyright">&copy; OpenStreetMap contributors</a>'
+}).addTo(map)
+
+map.setView([38.90488528254173, -77.02296316623688], 16);
+map.scrollWheelZoom.disable();
+
+map.featureLayer.setGeoJSON(venues);
+
+var info = document.getElementById('info');
+var count = 0;
+
+// Iterate through each feature layer item, build a
+// marker menu item and enable a click event that pans to + opens
+// a marker that's associated to the marker item.
+map.featureLayer.eachLayer(function(marker) {
+  count++
+  var link = info.appendChild(document.createElement('a'));
+  link.className = 'item small keyline-bottom pad1';
+  link.href = '#';
+
+  // Populate content from each markers object.
+  link.innerHTML = '<span class="dot inline marker-dot" style="background-color:' + marker.feature.properties['marker-color'] + ';"></span>' + marker.feature.properties.title;
+
+  if (count === 1) {
+    map.panTo(marker.getLatLng());
+    marker.openPopup();
+    link.className += ' active';
+  }
+
+  link.onclick = function() {
+    if (/active/.test(this.className)) {
+      this.className = this.className.replace(/active/, '').replace(/\s\s*$/, '');
+    } else {
+      var siblings = info.getElementsByTagName('a');
+      for (var i = 0; i < siblings.length; i++) {
+        siblings[i].className = siblings[i].className
+          .replace(/active/, '').replace(/\s\s*$/, '');
+      };
+      this.className += ' active';
+
+      // When a menu item is clicked, animate the map to center
+      // its associated marker and open its popup.
+      map.panTo(marker.getLatLng());
+      marker.openPopup();
+    }
+    return false;
+  };
+});
+
+</script>
+-->

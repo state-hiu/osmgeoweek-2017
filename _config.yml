@@ -1,0 +1,13 @@
+baseurl: ''
+exclude: [src, CNAME, "2012", "2013"]
+markdown: kramdown
+
+future: true
+
+# Analytics
+ga:
+  enabled: true
+  code: "UA-24614711-3"
+
+# start date of OSMGeoWeek
+date: 2016-11-13

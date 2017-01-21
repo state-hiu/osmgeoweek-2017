@@ -1,0 +1,2197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tanzania World AIDS Day Mapathon",
+        "url": "http://localhost:4000/event/TanzaniaWorldAIDSDayMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.2804, -6.8143]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GeoBolivia - AGETIC Mapathon",
+        "url": "http://localhost:4000/event/GeoBoliviaAGETIC",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.1335, -16.4957]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Advanced Monthly Mapathon at Thoughtworks - London",
+        "url": "http://localhost:4000/event/MSFMissingMaps",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0882, 51.4898]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UCC's Save the World",
+        "url": "http://localhost:4000/event/UCCSaveTheWorld",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.289, 5.1188]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vulcan Inc. Mapathon",
+        "url": "http://localhost:4000/event/Vulcan",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3421, 47.6077]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kumi University Everlast Youth Mappers Mapathon",
+        "url": "http://localhost:4000/event/KumiUniversityEverlast",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.287, 1.378]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CartONG Chambéry Mapathon",
+        "url": "http://localhost:4000/event/CartONGChambéry",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9063, 45.5823]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kumi University Uganda Mapathon",
+        "url": "http://localhost:4000/event/KumiUniversityUganda",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.95, 1.5]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kumi University Mapathon - Uganda",
+        "url": "http://localhost:4000/event/KumiUniversity",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.86357, 1.47295]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "YouthMappers Mbale College Mapathon - Uganda",
+        "url": "http://localhost:4000/event/YouthMappersMbaleCollege/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.5814, 0.3177]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Youth Mappers Busitema Mapathon - Uganda",
+        "url": "http://localhost:4000/event/YouthMappersBusitemaMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.02008, 0.54532]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM Bénin Mapathon",
+        "url": "http://localhost:4000/event/OSMBéninMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4252, 6.3677]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM Burkina Faso Mapathon",
+        "url": "http://localhost:4000/event/OSMBurkinaFaso",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5271, 12.3682]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GOSM Liberia Community Mapathon",
+        "url": "http://localhost:4000/event/OSMLiberiaCommunity",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-10.7978, 6.3281]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Geography and Environment Mapathon Workshop",
+        "url": "http://localhost:4000/event/UniversityofDhakaMapathonWorkshop",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.3788, 23.7595]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Cape Coast OSM GeoWeek - Ghana",
+        "url": "http://localhost:4000/event/UCCGeoWeek",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.289, 5.1188]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BONEVET Workshop",
+        "url": "http://localhost:4000/event/BONEVET",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.4316, 42.3801]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM Geo Week at Uganda Christian",
+        "url": "http://localhost:4000/event/UgandaChristianMappers/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.1759, 1.08144]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Map Uganda",
+        "url": "http://localhost:4000/event/MapUganda/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.59173, 0.34093]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CartONG Bordeaux Mapathon",
+        "url": "http://localhost:4000/event/CartONGBordeaux",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.58, 44.8414]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OpenStreetMap Perú Mapathon",
+        "url": "http://localhost:4000/event/callao",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0904, -12.0424]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harrisburg University Mapathon - Pennslyvania",
+        "url": "http://localhost:4000/event/HarrisburgUniversityMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.8804, 40.2822]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ayacucho Mapathon - Peru",
+        "url": "http://localhost:4000/event/AyacuchoMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.993, -13.905]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Politecnico di Milano Mapathon - Italy",
+        "url": "http://localhost:4000/event/PolitecnicodiMilanoMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.22783, 45.47723]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "City of Lakeland GIS Day Mapathon 2016 - Lakeland, FL",
+        "url": "http://localhost:4000/event/LakelandMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.9473, 28.0625]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UCC Mapathon Day",
+        "url": "http://localhost:4000/event/UCCMapathonDay",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.289, 5.1188]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "USC Graduate Student Mapathon - South Carolina",
+        "url": "http://localhost:4000/event/USCGeographyMapping",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.9375, 34.0375]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CartONG Limbe Mapathon",
+        "url": "http://localhost:4000/event/CartONGLimbe",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.0036, -15.7863]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MappingDC Mapathon",
+        "url": "http://localhost:4000/event/MappingDC",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0146, 38.8938]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MapPH Mapathon",
+        "url": "http://localhost:4000/event/DisasterMappers",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.9839, 14.598]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Humanitarian OSM Team Indonesia Mapathon",
+        "url": "http://localhost:4000/event/HumanitarianOSMTeamIndonesia",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8272, -6.1754]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Université d'Antsiranana Mapathon - CartONG",
+        "url": "http://localhost:4000/event/UniversitedAntsirananaMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.2913, -12.278]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Humanitarian OpenStreetMap Team Indonesia Talkshow",
+        "url": "http://localhost:4000/event/HumanitarianOpenStreetMapTeamIndonesia",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8272, -6.1754]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MapOff - George Mason University – Fairfax, VA",
+        "url": "http://localhost:4000/event/mapoff/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.30532, 38.82966]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanford University Mapathon",
+        "url": "http://localhost:4000/event/StanfordUniversityMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.1703, 37.4266]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Missing Maps Southampton Mapathon",
+        "url": "http://localhost:4000/event/MissingMapsSouthampton",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.4042, 50.9028]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manitoba GIS Users Group Mapathon",
+        "url": "http://localhost:4000/event/ManitobaGIS",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.1528, 49.854]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Geocensos Foundation Mapathon - Colombia",
+        "url": "http://localhost:4000/event/geocensos",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.09812, 4.80446]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mapillary Party BLR - India",
+        "url": "http://localhost:4000/event/MapillaryPartyBLR",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.63681, 12.98108]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GeoSynapse Guinee Mapathon",
+        "url": "http://localhost:4000/event/GeoSynapseGuinee",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.6999, 9.5172]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Missing Maps in Liverpool - England",
+        "url": "http://localhost:4000/event/MissingMapsinLiverpool",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9186, 53.3933]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Engnieers Without Borders Norway Mapathon",
+        "url": "http://localhost:4000/event/TrondelagDivisionMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.3952, 63.431]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UC Davis Mapathon - California",
+        "url": "http://localhost:4000/event/UCDMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.7513, 38.5308]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "AGS Geography 2050 Mapathon - New York",
+        "url": "http://localhost:4000/event/AGSGeography2050",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9796, 40.6979]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Panama Mapathon",
+        "url": "http://localhost:4000/event/UniversityofPanamaMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.5342, 8.9715]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Geospatial Centroid Mapathon - Colorado State University",
+        "url": "http://localhost:4000/event/CSUGeospatialCentroid",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.0677, 40.5561]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Missing Maps Mapathon - Zagreb, Croatia",
+        "url": "http://localhost:4000/event/GeodesyMissingMaps",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.9633, 45.8427]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MapLesotho Mapathon",
+        "url": "http://localhost:4000/event/MapLesotho",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.3, 29.6]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mapping Berger, Lagos State - Akure, Nigeria",
+        "url": "http://localhost:4000/event/MappingBerger",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.3941, 6.4555]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save the Children in Bangladesh Mapathon",
+        "url": "http://localhost:4000/event/OSMBD",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.3788, 23.7595]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DisasterMappers Heidelberg Mapathon",
+        "url": "http://localhost:4000/event/DisasterMappers",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6947, 49.4096]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OpenStreetMapMX",
+        "url": "http://localhost:4000/event/OpenStreetMapMX",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.657, 19.2927]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OpenStreetMap Mexico Workshop",
+        "url": "http://localhost:4000/event/OpenStreetMapMexicoWorkshop",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.1333, 19.4327]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GIScience Research Group MissingMaps",
+        "url": "http://localhost:4000/event/GIScienceResearchGroup",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6947, 49.4096]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Edinburgh OSM Training",
+        "url": "http://localhost:4000/event/UniversityofEdinburgh",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1808, 55.95026]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Open Humanitarians Mapping Competition",
+        "url": "http://localhost:4000/event/OpenHumanitariansMappingCompetition",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.3229, 31.5623]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "HOT-OSM Finland Mapathon",
+        "url": "http://localhost:4000/event/HOT-OSM-Finland",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.0187, 60.1107]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maptime Miami Mapathon",
+        "url": "http://localhost:4000/event/MaptimeMiami",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1937, 25.7744]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mbarara University of Science and Technology Mapathon - Uganda",
+        "url": "http://localhost:4000/event/MUSTMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.5667, -0.5245]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM Canada Mapathon",
+        "url": "http://localhost:4000/event/OSMCanadaMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.7945, 45.2504]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GeoSynapse Guinée Mapathon",
+        "url": "http://localhost:4000/event/geosynapse/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.6097342, 9.6318487]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Redlands Mapathon",
+        "url": "http://localhost:4000/event/UniversityofRedlandsMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1231, 34.04572]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of South Bohemia Mapathon",
+        "url": "http://localhost:4000/event/UniversityofSouthBohemia",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4911, 48.9767]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Partnering for Humanitarian Good Mapathon - OpenStreetMap GeoWeek 2016 Main Event - DC",
+        "url": "http://localhost:4000/event/mainevent",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.03311, 38.90437]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Virginia Tech GeoWeek Mapathon",
+        "url": "http://localhost:4000/event/virginiatech",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.4299, 37.2304]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "YouthMappers Dhaka College Mapathon - Bangladesh",
+        "url": "http://localhost:4000/event/YouthMappersDhakaCollege",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.3788, 23.7595]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "WA Women in GIS and Technology Mapathon",
+        "url": "http://localhost:4000/event/WAWomenGISTechnologyMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.393, 47.639]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of California, Santa Barbara Mapathon",
+        "url": "http://localhost:4000/event/UCSantaBarbaraMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.7499, 34.4]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal University of Bhutan Mapathon",
+        "url": "http://localhost:4000/event/RoyalUniversityofBhutanMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [91.54, 27.29]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TUM Mapathon",
+        "url": "http://localhost:4000/event/TUMMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5418, 48.155]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Missing Maps Ambérieu SSI - France",
+        "url": "http://localhost:4000/event/CartONGMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3706, 45.9575]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GIS Day 2016 @ QUB - UK",
+        "url": "http://localhost:4000/event/GISDay2016@QUB",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.9301, 54.5973]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Maryland Mapathon",
+        "url": "http://localhost:4000/event/UniversityofMarylandMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9372, 38.9983]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DFID London Mapathon",
+        "url": "http://localhost:4000/event/DFIDLondon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0882, 51.4898]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "American Red Cross Guinee Mapathon",
+        "url": "http://localhost:4000/event/AmericanRedCrossGuinee/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.8176, 7.758]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Humanitarian OpenStreetMap Mapathon - University of Maryland",
+        "url": "http://localhost:4000/event/UMDHumanitarianMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9373, 38.9984]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DFID Scotland Mapathon",
+        "url": "http://localhost:4000/event/DFID/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.183, 55.7653]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clemson GIS Day",
+        "url": "http://localhost:4000/event/ClemsonMappers/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.8164, 34.6839]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "FLOSS KOSOVA Workshop",
+        "url": "http://localhost:4000/event/FLOSSKOSOVA",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1638, 42.6642]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of California, Los Angeles Mapathon",
+        "url": "http://localhost:4000/event/UCLAMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4117, 34.0211]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UCLA Missing Maps Mapathon - California",
+        "url": "http://localhost:4000/event/UCLAMissingMaps",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4464, 34.0709]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MSF Czech Republic Mapathon",
+        "url": "http://localhost:4000/event/MSFCzechRepublic",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4656, 50.0598]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central Washington University Mapathon",
+        "url": "http://localhost:4000/event/CWUMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.5535, 46.9981]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "British Red Cross Missing Maps",
+        "url": "http://localhost:4000/event/BritishRedCross",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5454, 53.8223]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Exeter's Forum Exploration Lab 1 - Exeter, England",
+        "url": "http://localhost:4000/event/ExonExploration",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.535, 50.7369]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ballerup Municipality Mapathon",
+        "url": "http://localhost:4000/event/BallerupMunicipality",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3612, 55.7304]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "All Over the Map! Mapathon",
+        "url": "http://localhost:4000/event/AllOvertheMap",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.7038, 37.2789]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Red Cross on Campus: Lincoln Mapathon",
+        "url": "http://localhost:4000/event/RedCrossonCampusLincoln",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.56116, 53.2113]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MSU Map Library Mapathon - Michigan",
+        "url": "http://localhost:4000/event/MSUMapLibrary",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4762, 42.7491]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GTU Macalester College Mapathon - Saint Paul, Minnesota",
+        "url": "http://localhost:4000/event/GTUMacalesterCollege",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.1061, 44.9397]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brigham Young University Mapathon",
+        "url": "http://localhost:4000/event/BYUMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6389, 40.2574]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Universidad del Valle Mapathon - Colombia",
+        "url": "http://localhost:4000/event/UniversidaddelValle",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5113, 3.4319]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anime In Northwest Ohio Mapathon",
+        "url": "http://localhost:4000/event/AnimeNWOHMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.6493, 41.3817]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM Zambia Mapathon",
+        "url": "http://localhost:4000/event/OSMZambiaMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.3103, -15.3778]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "100 Mapathons MapTime Bend, Oregon",
+        "url": "http://localhost:4000/event/MapTimeBend",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.3146, 44.0614]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lunch & Learn w/ OSM Institutions - Washington D.C.",
+        "url": "http://localhost:4000/event/ARCLunchLearn/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.04005, 38.89492]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Monroe Community College YouthMappers Mapathon - Rochester, NY",
+        "url": "http://localhost:4000/event/MonroeCommunityCollegeMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.6152, 43.1575]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "#Map4America at the US Census Bureau - Maryland",
+        "url": "http://localhost:4000/event/mapoff/Map4America",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9239, 38.8487]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Free University of Brussels Mapathon",
+        "url": "http://localhost:4000/event/EGEABrussel/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3517, 50.8468]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Missing Maps Party - Indonesia",
+        "url": "http://localhost:4000/event/GreenSchoolMapping",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.1226, -8.2573]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Bologna Mapathon - Italy",
+        "url": "http://localhost:4000/event/UofBolognaMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.329, 44.488]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Komunitas OSM & InaSAFE UNIMA Mapathon",
+        "url": "http://localhost:4000/event/KomunitasOSMInaSAFEUNIMA",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.8409, 1.4901]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Open Humanitarians Mapathon",
+        "url": "http://localhost:4000/event/OpenHumanitariansMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.3229, 31.5623]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "World Bank and UNDP Mapathon",
+        "url": "http://localhost:4000/event/WorldBankandUNDPMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.6943, 7.7358]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MSF London Mapathon",
+        "url": "http://localhost:4000/event/MSFLondonMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.08227, 51.51135]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Mappers - GIS Week Missing Maps Map-a-thon - Worcester, Massachusetts",
+        "url": "http://localhost:4000/event/ClarkMappers/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.82315, 42.25105]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Front Range Community College - Westminster, Colorado",
+        "url": "http://localhost:4000/event/frcc/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.12801, 40.13878]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kathmandu Living Labs Mapathon",
+        "url": "http://localhost:4000/event/KathmanduLivingLabs",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.9914, 28.2097]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Humboldt State University Mapathon - Arcata, California",
+        "url": "http://localhost:4000/event/HumboldtStateUniversityMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-124.0532, 40.8455]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Metropolitan Sate University Mapathon - Mongolia",
+        "url": "http://localhost:4000/event/GerCommunityMappingCenterMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.8548, 39.7644]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ger Community Mapping Center Mapathon - Mongolia",
+        "url": "http://localhost:4000/event/MSUDenverMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.8548, 39.7644]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UNESCO-IHE Mapping Party - The Netherlands",
+        "url": "http://localhost:4000/event/UNESCO-IHEMappingParty",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3641, 51.9995]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MapTime Buffalo",
+        "url": "http://localhost:4000/event/SUNYBuffaloMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.7998, 42.9784]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Development Seed Mapathon - Washington D.C.",
+        "url": "http://localhost:4000/event/DevelopmentSeedMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.02421, 38.90624]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kyambogo University Mapathon - Uganda",
+        "url": "http://localhost:4000/event/KyambogoUniversityMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.5814, 0.3177]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mapping Party - Missing Maps Malawi",
+        "url": "http://localhost:4000/event/TwenteMappingParty/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.85668, 52.23801]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "FoMSF Glasgow / Medsin Mapathon - Scotland",
+        "url": "http://localhost:4000/event/FoMSFMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.2325, 55.8555]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BRAC University Mapathon",
+        "url": "http://localhost:4000/event/BRACUniversityMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.3788, 23.7595]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CrisisMappers Japan Mapathon",
+        "url": "http://localhost:4000/event/CrisisMappersJapanMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.49839, 34.70524]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UNC Research Hub - North Carolina",
+        "url": "http://localhost:4000/event/unc/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.06199, 35.91157]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sierra Leone Red Cross Society Mapathon",
+        "url": "http://localhost:4000/event/SierraLeoneRedCrossSociety",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.2679, 8.479]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mapbox Workshop in Bengaluru, India",
+        "url": "http://localhost:4000/event/MapboxWorkshopBengaluru",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5913, 12.9792]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ivry-Dianguirdé Mapathon - France",
+        "url": "http://localhost:4000/event/Ivry-DianguirdéMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3873, 48.8125]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CrisisMappers Japan Mapillary",
+        "url": "http://localhost:4000/event/CrisisMappersJapanMapillary",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.5126, 34.8575]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason Mappers OpenStreetMap Workshop",
+        "url": "http://localhost:4000/event/MasonMappersWorkshop/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3259, 38.832]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West Virginia University YouthMappers Mapathon",
+        "url": "http://localhost:4000/event/WVUYouthMappersMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.9435, 39.6247]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elementary School 'M. Kepuska' Workshop",
+        "url": "http://localhost:4000/event/ElementarySchool-M-Kepuska",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.902, 43.044]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kathmandu Living Labs Mapathon - Nepal",
+        "url": "http://localhost:4000/event/KathmanduLivingLabsMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.9914, 28.2097]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olomoucký Mapathon s Lékaři bez hrani",
+        "url": "http://localhost:4000/event/PalackýMissingMaps/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4188, 50.07624]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GWU Humanitarian Mapping Society & Missing Maps: November Mapathon",
+        "url": "http://localhost:4000/event/GWUMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.04832, 38.89919]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "#Net Impact Conference Service Activity - Philladelphia",
+        "url": "http://localhost:4000/event/NetImpactConference",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1181, 40.0026]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Southern Methodist University - Dallas, Texas",
+        "url": "http://localhost:4000/event/smu/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.0115281, 32.8203525]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Texas Tech University YouthMappers Mapathon",
+        "url": "http://localhost:4000/event/TTUYouthMappersMapathon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.8904, 33.585]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MapOff Texas Tech University with West Virginia",
+        "url": "http://localhost:4000/event/SUNYYouthMappersMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.8904, 33.585]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Youth Mappers SUNY Mapathon - New York",
+        "url": "http://localhost:4000/event/SUNYYouthMappersMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.8085, 42.801]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zeta Theta Map-A-Thon",
+        "url": "http://localhost:4000/event/ZetaThetaMap-A-Thon",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.9168, 40.4528]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal University of Bhutan Mapathon",
+        "url": "http://localhost:4000/event/RoyalUniversityofBhutanMapathon/",
+        
+         "marker-color": "#ef4815"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.739, 34.1334]
+      }
+    }
+    
+  ]
+}
