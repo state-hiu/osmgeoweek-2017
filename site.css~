@@ -37,7 +37,7 @@ a:hover {
   /*
   color: #AAE06D;
   */
-  color:#00ceff;
+  color:#e8704c;
 }
 body {
   font-family: 'Asap', serif;
