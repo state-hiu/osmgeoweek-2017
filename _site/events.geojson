@@ -5,15 +5,47 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sample Event - MapOff - George Mason University – Fairfax, VA",
-        "url": "http://0.0.0.0:4000/event/mapoff/",
+        "title": "Crowd2Map Mapathon",
+        "url": "http://localhost:4000/event/Crowd2Map/",
         
          "marker-color": "#00beec"
         
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.30532, 38.82966]
+        "coordinates": [-79.88321, 40.06461]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Missing Maps November Mapathon - Cambridge",
+        "url": "http://localhost:4000/event/cambridge/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.11477, 52.2046]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CalU YouthMappers Mapathon",
+        "url": "http://localhost:4000/event/CalU/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.88321, 40.06461]
       }
     }
     
