@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "title": "Crowd2Map Mapathon",
-        "url": "http://localhost:4000/event/Crowd2Map/",
+        "url": "http://0.0.0.0:4000/event/Crowd2Map/",
         
          "marker-color": "#00beec"
         
@@ -22,7 +22,7 @@
       "type": "Feature",
       "properties": {
         "title": "Missing Maps November Mapathon - Cambridge",
-        "url": "http://localhost:4000/event/cambridge/",
+        "url": "http://0.0.0.0:4000/event/cambridge/",
         
          "marker-color": "#00beec"
         
@@ -38,7 +38,7 @@
       "type": "Feature",
       "properties": {
         "title": "CalU YouthMappers Mapathon",
-        "url": "http://localhost:4000/event/CalU/",
+        "url": "http://0.0.0.0:4000/event/CalU/",
         
          "marker-color": "#00beec"
         
