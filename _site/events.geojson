@@ -5,6 +5,70 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "RYT Youth Mapathon",
+        "url": "http://0.0.0.0:4000/event/ryt-youth/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.1989861, 0.4243084]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM Guinea Mapathon",
+        "url": "http://0.0.0.0:4000/event/cape-coast/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.7094, 9.5096]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kyambogo University Mapathon",
+        "url": "http://0.0.0.0:4000/event/kyambogo/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.63082, 0.34716]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Coast YouthMappers Mapathon",
+        "url": "http://0.0.0.0:4000/event/cape-coast/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.29403, 5.11887]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Crowd2Map Mapathon",
         "url": "http://0.0.0.0:4000/event/Crowd2Map/",
         
