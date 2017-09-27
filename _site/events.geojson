@@ -101,6 +101,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ciudad de Aguascalientes Mapathon",
+        "url": "http://0.0.0.0:4000/event/aguascalientes/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-102.28282, 21.85548]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CalU YouthMappers Mapathon",
         "url": "http://0.0.0.0:4000/event/CalU/",
         
