@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "title": "RYT Youth Mapathon",
-        "url": "http://localhost:4000/event/ryt-youth/",
+        "url": "http://0.0.0.0:4000/event/ryt-youth/",
         
          "marker-color": "#00beec"
         
@@ -22,7 +22,7 @@
       "type": "Feature",
       "properties": {
         "title": "OSM Guinea Mapathon",
-        "url": "http://localhost:4000/event/cape-coast/",
+        "url": "http://0.0.0.0:4000/event/cape-coast/",
         
          "marker-color": "#00beec"
         
@@ -38,7 +38,7 @@
       "type": "Feature",
       "properties": {
         "title": "Kyambogo University Mapathon",
-        "url": "http://localhost:4000/event/kyambogo/",
+        "url": "http://0.0.0.0:4000/event/kyambogo/",
         
          "marker-color": "#00beec"
         
@@ -54,7 +54,7 @@
       "type": "Feature",
       "properties": {
         "title": "University of Chicago Mapathon",
-        "url": "http://localhost:4000/event/uchicago/",
+        "url": "http://0.0.0.0:4000/event/uchicago/",
         
          "marker-color": "#00beec"
         
@@ -70,7 +70,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cape Coast YouthMappers Mapathon",
-        "url": "http://localhost:4000/event/cape-coast/",
+        "url": "http://0.0.0.0:4000/event/cape-coast/",
         
          "marker-color": "#00beec"
         
@@ -86,7 +86,7 @@
       "type": "Feature",
       "properties": {
         "title": "Crowd2Map Mapathon",
-        "url": "http://localhost:4000/event/Crowd2Map/",
+        "url": "http://0.0.0.0:4000/event/Crowd2Map/",
         
          "marker-color": "#00beec"
         
@@ -102,7 +102,7 @@
       "type": "Feature",
       "properties": {
         "title": "Missing Maps November Mapathon - Cambridge",
-        "url": "http://localhost:4000/event/cambridge/",
+        "url": "http://0.0.0.0:4000/event/cambridge/",
         
          "marker-color": "#00beec"
         
@@ -118,7 +118,7 @@
       "type": "Feature",
       "properties": {
         "title": "Ciudad de Aguascalientes Mapathon",
-        "url": "http://localhost:4000/event/aguascalientes/",
+        "url": "http://0.0.0.0:4000/event/aguascalientes/",
         
          "marker-color": "#00beec"
         
@@ -134,7 +134,7 @@
       "type": "Feature",
       "properties": {
         "title": "CalU YouthMappers Mapathon",
-        "url": "http://localhost:4000/event/CalU/",
+        "url": "http://0.0.0.0:4000/event/CalU/",
         
          "marker-color": "#00beec"
         
