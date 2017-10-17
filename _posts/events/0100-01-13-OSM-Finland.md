@@ -1,4 +1,3 @@
-
 ---
 layout: event
 title: "HOT-OSM Finland Mapathon"
