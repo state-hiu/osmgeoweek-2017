@@ -21,6 +21,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "HOT-OSM Finland Mapathon",
+        "url": "http://0.0.0.0:4000/event/osm_finland/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9489475, 60.1697334]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "OSM Guinea Mapathon",
         "url": "http://0.0.0.0:4000/event/cape-coast/",
         
