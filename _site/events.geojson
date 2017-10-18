@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "title": "RYT Youth Mapathon",
-        "url": "http://0.0.0.0:4000/event/ryt-youth/",
+        "url": "http://localhost:4000/event/ryt-youth/",
         
          "marker-color": "#00beec"
         
@@ -22,7 +22,7 @@
       "type": "Feature",
       "properties": {
         "title": "HOT-OSM Finland Mapathon",
-        "url": "http://0.0.0.0:4000/event/osm_finland/",
+        "url": "http://localhost:4000/event/osm_finland/",
         
          "marker-color": "#00beec"
         
@@ -38,7 +38,7 @@
       "type": "Feature",
       "properties": {
         "title": "OSM Guinea Mapathon",
-        "url": "http://0.0.0.0:4000/event/cape-coast/",
+        "url": "http://localhost:4000/event/cape-coast/",
         
          "marker-color": "#00beec"
         
@@ -54,7 +54,7 @@
       "type": "Feature",
       "properties": {
         "title": "Kyambogo University Mapathon",
-        "url": "http://0.0.0.0:4000/event/kyambogo/",
+        "url": "http://localhost:4000/event/kyambogo/",
         
          "marker-color": "#00beec"
         
@@ -69,8 +69,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "TeachOSM Mapathon",
+        "url": "http://localhost:4000/event/teachosm/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9644107222557, 40.80685302615166]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "ADRETS Cartopartie",
-        "url": "http://0.0.0.0:4000/event/adrets/",
+        "url": "http://localhost:4000/event/adrets/",
         
          "marker-color": "#00beec"
         
@@ -86,7 +102,7 @@
       "type": "Feature",
       "properties": {
         "title": "University of Chicago Mapathon",
-        "url": "http://0.0.0.0:4000/event/uchicago/",
+        "url": "http://localhost:4000/event/uchicago/",
         
          "marker-color": "#00beec"
         
@@ -101,8 +117,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Stanford Geospatial Center Mapathon",
+        "url": "http://localhost:4000/event/stanfordgeospatialcenter/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.16779, 37.4268641]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Missing Maps QUB Mapathon",
-        "url": "http://0.0.0.0:4000/event/qub/",
+        "url": "http://localhost:4000/event/qub/",
         
          "marker-color": "#00beec"
         
@@ -118,7 +150,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cape Coast YouthMappers Mapathon",
-        "url": "http://0.0.0.0:4000/event/cape-coast/",
+        "url": "http://localhost:4000/event/cape-coast/",
         
          "marker-color": "#00beec"
         
@@ -134,7 +166,7 @@
       "type": "Feature",
       "properties": {
         "title": "Crowd2Map Mapathon",
-        "url": "http://0.0.0.0:4000/event/Crowd2Map/",
+        "url": "http://localhost:4000/event/Crowd2Map/",
         
          "marker-color": "#00beec"
         
@@ -150,7 +182,7 @@
       "type": "Feature",
       "properties": {
         "title": "Missing Maps November Mapathon - Cambridge",
-        "url": "http://0.0.0.0:4000/event/cambridge/",
+        "url": "http://localhost:4000/event/cambridge/",
         
          "marker-color": "#00beec"
         
@@ -166,7 +198,7 @@
       "type": "Feature",
       "properties": {
         "title": "Ciudad de Aguascalientes Mapathon",
-        "url": "http://0.0.0.0:4000/event/aguascalientes/",
+        "url": "http://localhost:4000/event/aguascalientes/",
         
          "marker-color": "#00beec"
         
@@ -182,7 +214,7 @@
       "type": "Feature",
       "properties": {
         "title": "CalU YouthMappers Mapathon",
-        "url": "http://0.0.0.0:4000/event/CalU/",
+        "url": "http://localhost:4000/event/CalU/",
         
          "marker-color": "#00beec"
         

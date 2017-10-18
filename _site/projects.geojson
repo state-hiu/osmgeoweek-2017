@@ -8,7 +8,7 @@
       "type": "Feature",
       "properties": {
         "title": "Crowd2Map",
-        "url": "http://0.0.0.0:4000/project/crowd2map"
+        "url": "http://localhost:4000/project/crowd2map"
       },
       "geometry": {
         "type": "Polygon",
@@ -45,7 +45,7 @@
       "type": "Feature",
       "properties": {
         "title": "PEPFAR Kenya",
-        "url": "http://0.0.0.0:4000/project/pepfar-kenya"
+        "url": "http://localhost:4000/project/pepfar-kenya"
       },
       "geometry": {
         "type": "Polygon",
@@ -82,7 +82,7 @@
       "type": "Feature",
       "properties": {
         "title": "PEPFAR Tanzania",
-        "url": "http://0.0.0.0:4000/project/pepfar-tanzania"
+        "url": "http://localhost:4000/project/pepfar-tanzania"
       },
       "geometry": {
         "type": "Polygon",
@@ -119,7 +119,7 @@
       "type": "Feature",
       "properties": {
         "title": "PEPFAR Uganda",
-        "url": "http://0.0.0.0:4000/project/pepfar-uganda"
+        "url": "http://localhost:4000/project/pepfar-uganda"
       },
       "geometry": {
         "type": "Polygon",
