@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "title": "CartONG Mapathon",
-        "url": "http://localhost:4000/event/cartongcco/",
+        "url": "/event/cartongcco/",
         
          "marker-color": "#00beec"
         
@@ -21,8 +21,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Emmanuel Church Durham Mapathon",
+        "url": "/event/emmanuelchurchdurham/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5379556, 54.7910587]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "RYT Youth Mapathon",
-        "url": "http://localhost:4000/event/ryt-youth/",
+        "url": "/event/ryt-youth/",
         
          "marker-color": "#00beec"
         
@@ -37,8 +53,56 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Good Mappers Busitema Mapathon",
+        "url": "/event/goodmappersbustiema/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0201, 0.54539]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mappers For Life Mapathon",
+        "url": "/event/mappersforlife/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.17635, 1.082]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Map Uganda Mapathon",
+        "url": "/event/mapuganda/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.59427, 0.34192]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "HOT-OSM Finland Mapathon",
-        "url": "http://localhost:4000/event/osm_finland/",
+        "url": "/event/osm_finland/",
         
          "marker-color": "#00beec"
         
@@ -54,7 +118,7 @@
       "type": "Feature",
       "properties": {
         "title": "OSM Guinea Mapathon",
-        "url": "http://localhost:4000/event/cape-coast/",
+        "url": "/event/cape-coast/",
         
          "marker-color": "#00beec"
         
@@ -70,7 +134,7 @@
       "type": "Feature",
       "properties": {
         "title": "CartONG Mapathon",
-        "url": "http://localhost:4000/event/cartongmjc/",
+        "url": "/event/cartongmjc/",
         
          "marker-color": "#00beec"
         
@@ -86,7 +150,7 @@
       "type": "Feature",
       "properties": {
         "title": "Kyambogo University Mapathon",
-        "url": "http://localhost:4000/event/kyambogo/",
+        "url": "/event/kyambogo/",
         
          "marker-color": "#00beec"
         
@@ -102,7 +166,7 @@
       "type": "Feature",
       "properties": {
         "title": "TeachOSM Mapathon",
-        "url": "http://localhost:4000/event/teachosm/",
+        "url": "/event/teachosm/",
         
          "marker-color": "#00beec"
         
@@ -118,7 +182,7 @@
       "type": "Feature",
       "properties": {
         "title": "ADRETS Cartopartie",
-        "url": "http://localhost:4000/event/adrets/",
+        "url": "/event/adrets/",
         
          "marker-color": "#00beec"
         
@@ -134,7 +198,7 @@
       "type": "Feature",
       "properties": {
         "title": "University of Chicago Mapathon",
-        "url": "http://localhost:4000/event/uchicago/",
+        "url": "/event/uchicago/",
         
          "marker-color": "#00beec"
         
@@ -149,8 +213,56 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "ISSMV Youth Mappers Mapathon",
+        "url": "/event/issmvyouthmappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-12.2513, 10.6913]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Northern Iowa Mapathon",
+        "url": "/event/universityofnortherniowa/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.4578, 42.5119]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kenyatta University Mapathon",
+        "url": "/event/kenyattauniversity/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.93, -1.1797]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CartONG Mapathon",
-        "url": "http://localhost:4000/event/cartongscoplapenicha/",
+        "url": "/event/cartongscoplapenicha/",
         
          "marker-color": "#00beec"
         
@@ -166,7 +278,7 @@
       "type": "Feature",
       "properties": {
         "title": "Stanford Geospatial Center Mapathon",
-        "url": "http://localhost:4000/event/stanfordgeospatialcenter/",
+        "url": "/event/stanfordgeospatialcenter/",
         
          "marker-color": "#00beec"
         
@@ -182,7 +294,7 @@
       "type": "Feature",
       "properties": {
         "title": "Missing Maps QUB Mapathon",
-        "url": "http://localhost:4000/event/qub/",
+        "url": "/event/qub/",
         
          "marker-color": "#00beec"
         
@@ -198,7 +310,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cape Coast YouthMappers Mapathon",
-        "url": "http://localhost:4000/event/cape-coast/",
+        "url": "/event/cape-coast/",
         
          "marker-color": "#00beec"
         
@@ -214,7 +326,7 @@
       "type": "Feature",
       "properties": {
         "title": "Crowd2Map Mapathon",
-        "url": "http://localhost:4000/event/Crowd2Map/",
+        "url": "/event/Crowd2Map/",
         
          "marker-color": "#00beec"
         
@@ -230,7 +342,7 @@
       "type": "Feature",
       "properties": {
         "title": "Missing Maps November Mapathon - Cambridge",
-        "url": "http://localhost:4000/event/cambridge/",
+        "url": "/event/cambridge/",
         
          "marker-color": "#00beec"
         
@@ -246,7 +358,7 @@
       "type": "Feature",
       "properties": {
         "title": "CartONG Mapathon",
-        "url": "http://localhost:4000/event/cartongzoomacom/",
+        "url": "/event/cartongzoomacom/",
         
          "marker-color": "#00beec"
         
@@ -259,11 +371,12 @@
     
     
     
+    
     {
       "type": "Feature",
       "properties": {
         "title": "Ciudad de Aguascalientes Mapathon",
-        "url": "http://localhost:4000/event/aguascalientes/",
+        "url": "/event/aguascalientes/",
         
          "marker-color": "#00beec"
         
@@ -279,7 +392,7 @@
       "type": "Feature",
       "properties": {
         "title": "CalU YouthMappers Mapathon",
-        "url": "http://localhost:4000/event/CalU/",
+        "url": "/event/CalU/",
         
          "marker-color": "#00beec"
         
@@ -287,6 +400,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-79.88321, 40.06461]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Society of Geography Students Mapathon",
+        "url": "/event/societyofgeography/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.31423, 48.46463]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Southern Methodist University Mapathon",
+        "url": "/event/southermethodistuniversity/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.78414, 32.84353]
       }
     }
     

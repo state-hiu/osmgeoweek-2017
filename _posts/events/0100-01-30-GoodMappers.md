@@ -8,8 +8,8 @@ speaker:
 twitter: ""
 organization: Good Mappers Bustiema
 permalink: event/goodmappersbustiema/
-tags:  
-  - saturday
+tags:
+    - saturday
 category: event
 published: true
 lat: 0.54539

@@ -8,8 +8,8 @@ speaker:
 twitter: ""
 organization: Map Uganda
 permalink: event/mapuganda/
-tags: 
-  - saturday
+tags:
+    - saturday
 category: event
 published: true
 lat: 0.34192
