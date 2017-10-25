@@ -213,6 +213,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Space Club FUTA Youth Mappers Mapathon",
+        "url": "/event/futa/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1932647, 7.2525595]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "ISSMV Youth Mappers Mapathon",
         "url": "/event/issmvyouthmappers/",
         
