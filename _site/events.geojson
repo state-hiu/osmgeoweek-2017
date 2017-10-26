@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "title": "CartONG Mapathon",
-        "url": "/event/cartongcco/",
+        "url": "http://0.0.0.0:4000/event/cartongcco/",
         
          "marker-color": "#00beec"
         
@@ -22,7 +22,7 @@
       "type": "Feature",
       "properties": {
         "title": "Emmanuel Church Durham Mapathon",
-        "url": "/event/emmanuelchurchdurham/",
+        "url": "http://0.0.0.0:4000/event/emmanuelchurchdurham/",
         
          "marker-color": "#00beec"
         
@@ -38,7 +38,7 @@
       "type": "Feature",
       "properties": {
         "title": "RYT Youth Mapathon",
-        "url": "/event/ryt-youth/",
+        "url": "http://0.0.0.0:4000/event/ryt-youth/",
         
          "marker-color": "#00beec"
         
@@ -54,7 +54,7 @@
       "type": "Feature",
       "properties": {
         "title": "Good Mappers Busitema Mapathon",
-        "url": "/event/goodmappersbustiema/",
+        "url": "http://0.0.0.0:4000/event/goodmappersbustiema/",
         
          "marker-color": "#00beec"
         
@@ -70,7 +70,7 @@
       "type": "Feature",
       "properties": {
         "title": "Mappers For Life Mapathon",
-        "url": "/event/mappersforlife/",
+        "url": "http://0.0.0.0:4000/event/mappersforlife/",
         
          "marker-color": "#00beec"
         
@@ -86,7 +86,7 @@
       "type": "Feature",
       "properties": {
         "title": "Map Uganda Mapathon",
-        "url": "/event/mapuganda/",
+        "url": "http://0.0.0.0:4000/event/mapuganda/",
         
          "marker-color": "#00beec"
         
@@ -102,7 +102,7 @@
       "type": "Feature",
       "properties": {
         "title": "HOT-OSM Finland Mapathon",
-        "url": "/event/osm_finland/",
+        "url": "http://0.0.0.0:4000/event/osm_finland/",
         
          "marker-color": "#00beec"
         
@@ -118,7 +118,7 @@
       "type": "Feature",
       "properties": {
         "title": "OSM Guinea Mapathon",
-        "url": "/event/cape-coast/",
+        "url": "http://0.0.0.0:4000/event/cape-coast/",
         
          "marker-color": "#00beec"
         
@@ -134,7 +134,7 @@
       "type": "Feature",
       "properties": {
         "title": "CartONG Mapathon",
-        "url": "/event/cartongmjc/",
+        "url": "http://0.0.0.0:4000/event/cartongmjc/",
         
          "marker-color": "#00beec"
         
@@ -150,7 +150,7 @@
       "type": "Feature",
       "properties": {
         "title": "Kyambogo University Mapathon",
-        "url": "/event/kyambogo/",
+        "url": "http://0.0.0.0:4000/event/kyambogo/",
         
          "marker-color": "#00beec"
         
@@ -166,7 +166,7 @@
       "type": "Feature",
       "properties": {
         "title": "TeachOSM Mapathon",
-        "url": "/event/teachosm/",
+        "url": "http://0.0.0.0:4000/event/teachosm/",
         
          "marker-color": "#00beec"
         
@@ -182,7 +182,7 @@
       "type": "Feature",
       "properties": {
         "title": "ADRETS Cartopartie",
-        "url": "/event/adrets/",
+        "url": "http://0.0.0.0:4000/event/adrets/",
         
          "marker-color": "#00beec"
         
@@ -198,7 +198,7 @@
       "type": "Feature",
       "properties": {
         "title": "University of Chicago Mapathon",
-        "url": "/event/uchicago/",
+        "url": "http://0.0.0.0:4000/event/uchicago/",
         
          "marker-color": "#00beec"
         
@@ -214,7 +214,7 @@
       "type": "Feature",
       "properties": {
         "title": "Space Club FUTA Youth Mappers Mapathon",
-        "url": "/event/futa/",
+        "url": "http://0.0.0.0:4000/event/futa/",
         
          "marker-color": "#00beec"
         
@@ -230,7 +230,7 @@
       "type": "Feature",
       "properties": {
         "title": "ISSMV Youth Mappers Mapathon",
-        "url": "/event/issmvyouthmappers/",
+        "url": "http://0.0.0.0:4000/event/issmvyouthmappers/",
         
          "marker-color": "#00beec"
         
@@ -246,7 +246,7 @@
       "type": "Feature",
       "properties": {
         "title": "University of Northern Iowa Mapathon",
-        "url": "/event/universityofnortherniowa/",
+        "url": "http://0.0.0.0:4000/event/universityofnortherniowa/",
         
          "marker-color": "#00beec"
         
@@ -262,7 +262,7 @@
       "type": "Feature",
       "properties": {
         "title": "Kenyatta University Mapathon",
-        "url": "/event/kenyattauniversity/",
+        "url": "http://0.0.0.0:4000/event/kenyattauniversity/",
         
          "marker-color": "#00beec"
         
@@ -278,7 +278,7 @@
       "type": "Feature",
       "properties": {
         "title": "CartONG Mapathon",
-        "url": "/event/cartongscoplapenicha/",
+        "url": "http://0.0.0.0:4000/event/cartongscoplapenicha/",
         
          "marker-color": "#00beec"
         
@@ -294,7 +294,7 @@
       "type": "Feature",
       "properties": {
         "title": "Stanford Geospatial Center Mapathon",
-        "url": "/event/stanfordgeospatialcenter/",
+        "url": "http://0.0.0.0:4000/event/stanfordgeospatialcenter/",
         
          "marker-color": "#00beec"
         
@@ -310,7 +310,7 @@
       "type": "Feature",
       "properties": {
         "title": "Missing Maps QUB Mapathon",
-        "url": "/event/qub/",
+        "url": "http://0.0.0.0:4000/event/qub/",
         
          "marker-color": "#00beec"
         
@@ -326,7 +326,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cape Coast YouthMappers Mapathon",
-        "url": "/event/cape-coast/",
+        "url": "http://0.0.0.0:4000/event/cape-coast/",
         
          "marker-color": "#00beec"
         
@@ -342,7 +342,7 @@
       "type": "Feature",
       "properties": {
         "title": "Crowd2Map Mapathon",
-        "url": "/event/Crowd2Map/",
+        "url": "http://0.0.0.0:4000/event/Crowd2Map/",
         
          "marker-color": "#00beec"
         
@@ -358,7 +358,7 @@
       "type": "Feature",
       "properties": {
         "title": "Missing Maps November Mapathon - Cambridge",
-        "url": "/event/cambridge/",
+        "url": "http://0.0.0.0:4000/event/cambridge/",
         
          "marker-color": "#00beec"
         
@@ -374,7 +374,7 @@
       "type": "Feature",
       "properties": {
         "title": "CartONG Mapathon",
-        "url": "/event/cartongzoomacom/",
+        "url": "http://0.0.0.0:4000/event/cartongzoomacom/",
         
          "marker-color": "#00beec"
         
@@ -392,7 +392,7 @@
       "type": "Feature",
       "properties": {
         "title": "Ciudad de Aguascalientes Mapathon",
-        "url": "/event/aguascalientes/",
+        "url": "http://0.0.0.0:4000/event/aguascalientes/",
         
          "marker-color": "#00beec"
         
@@ -407,8 +407,40 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Open Street Map RDC Mapathon",
+        "url": "http://0.0.0.0:4000/event/rdckinshasa/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.3125, -4.3218]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Open Street Map RDC Mapathon",
+        "url": "http://0.0.0.0:4000/event/rdckisangani/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2057292, 0.5184021]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CalU YouthMappers Mapathon",
-        "url": "/event/CalU/",
+        "url": "http://0.0.0.0:4000/event/CalU/",
         
          "marker-color": "#00beec"
         
@@ -424,7 +456,7 @@
       "type": "Feature",
       "properties": {
         "title": "Society of Geography Students Mapathon",
-        "url": "/event/societyofgeography/",
+        "url": "http://0.0.0.0:4000/event/societyofgeography/",
         
          "marker-color": "#00beec"
         
@@ -440,7 +472,7 @@
       "type": "Feature",
       "properties": {
         "title": "Southern Methodist University Mapathon",
-        "url": "/event/southermethodistuniversity/",
+        "url": "http://0.0.0.0:4000/event/southermethodistuniversity/",
         
          "marker-color": "#00beec"
         
