@@ -21,6 +21,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "OSM_Niger Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmnigernovember/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1156, 13.5062]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CartONG Mapathon",
         "url": "http://0.0.0.0:4000/event/cartongcco/",
         
@@ -62,6 +78,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [33.1989861, 0.4243084]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Open FTK Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmmg/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.5285184, -18.9309403]
       }
     },
     
@@ -165,6 +197,38 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Kathmandu Living Labs Mapathon",
+        "url": "http://0.0.0.0:4000/event/kathmandunepal/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.33684, 27.7341]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kathmandu Living Labs Mapathon",
+        "url": "http://0.0.0.0:4000/event/kathmandu/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.33684, 27.7341]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Youth Mappers UGLCS Mapathon",
         "url": "http://0.0.0.0:4000/event/ugcls/",
         
@@ -206,6 +270,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [32.63082, 0.34716]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Etaxi Mapathon",
+        "url": "http://0.0.0.0:4000/event/etaxi/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.317535, 36.839703]
       }
     },
     
@@ -270,6 +350,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-87.602854, 41.790524]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mapping Munyu Mapathon",
+        "url": "http://0.0.0.0:4000/event/mappingmunyu/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.99114, 48.39647]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portland State Mapathon",
+        "url": "http://0.0.0.0:4000/event/psumappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.68386, 45.5125]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University Library, The University of North Carolina at Chapel Hill Mapathon",
+        "url": "http://0.0.0.0:4000/event/universitylibraryunc/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.0497, 35.90944]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kwantlen Polytechnic University Mapathon",
+        "url": "http://0.0.0.0:4000/event/kwantlenpolytechnicuniversity/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.12719, 49.1749]
       }
     },
     
@@ -469,6 +613,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "University of Bologna Mapathon",
+        "url": "http://0.0.0.0:4000/event/universityofbologna/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.3295096, 44.4876722]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CartONG Mapathon",
         "url": "http://0.0.0.0:4000/event/cartongzoomacom/",
         
@@ -551,6 +711,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Purdue University Mapathon",
+        "url": "http://0.0.0.0:4000/event/purdueuniversity/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.91367, 40.42728]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CalU YouthMappers Mapathon",
         "url": "http://0.0.0.0:4000/event/CalU/",
         
@@ -583,6 +759,38 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Grab Mapathon",
+        "url": "http://0.0.0.0:4000/event/grabandhot/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.83013, -6.21736]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM Guinee Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmguniee/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.8176068, 7.7579345]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Southern Methodist University Mapathon",
         "url": "http://0.0.0.0:4000/event/southermethodistuniversity/",
         
@@ -592,6 +800,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-96.78414, 32.84353]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM_Niger Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmnigeroctober/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1156, 13.5062]
       }
     }
     

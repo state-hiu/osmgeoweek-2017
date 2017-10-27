@@ -19,6 +19,8 @@ dates:
     name: Friday, November 17th
   - id: '2017-11-18'
     name: Saturday, November 18th
+  - id: 'post-event'
+    name: Events starting late
 ---
 
 <div class='fill-bold-blue dark'>
@@ -76,6 +78,34 @@ dates:
 
                       {% endif %}
 
+                  {% elsif date.id  == 'post-event' %}
+
+                      {% if item.post-event  == true %}
+
+                        <div class='col12 pad1y clearfix {% if item.highlight == true %}highlight{% endif %}'>
+                        <div>
+                          <div class='headline clearfix space-bottom1'>
+                            <h2><a href='{{site.baseurl}}/{{item.permalink}}'>{{item.title}}</a></h2>
+                            <span class='text-right quiet'>{{item.location}}</span>
+                            <span class='strong'>
+                            {{item.time}} | {{ item.date | date: "%A, %B %-d" }}
+                          </span>
+                          </div>
+
+                          <p><p>
+                            {% if item.thumbnail %}
+                              <img src="{{ item.thumbnail }}" style="height: 280px" align="center" />
+                            {% endif %}
+                          <p>
+
+                          <div class='prose schedule'>
+                            {{item.excerpt}}
+                          </div>
+                        </div>
+                      </div>
+
+
+                      {% endif %}
 
 
                   {% elsif my_variable contains date.id %}

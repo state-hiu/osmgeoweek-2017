@@ -3,6 +3,7 @@ layout: event
 title: "OSM_Niger Mapathon"
 date: 2017-11-20
 pre-event: false
+post-event: true
 time: ""
 speaker:
 twitter: ""
