@@ -5,6 +5,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "CSGU Mappers Mapathon",
+        "url": "http://0.0.0.0:4000/event/csgumappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.31685, 2.78867]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CartONG Mapathon",
         "url": "http://0.0.0.0:4000/event/cartongcco/",
         
@@ -46,6 +62,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [33.1989861, 0.4243084]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Washington College GIS Program Mapathon",
+        "url": "http://0.0.0.0:4000/event/washingtoncollegegis/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.06966, 39.21904]
       }
     },
     
@@ -133,6 +165,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Youth Mappers UGLCS Mapathon",
+        "url": "http://0.0.0.0:4000/event/ugcls/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.6998434, 9.5170602]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CartONG Mapathon",
         "url": "http://0.0.0.0:4000/event/cartongmjc/",
         
@@ -158,6 +206,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [32.63082, 0.34716]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Citadel Youth Mappers",
+        "url": "http://0.0.0.0:4000/event/citadelyouthmappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.95977, 32.79705]
       }
     },
     
@@ -206,6 +270,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-87.602854, 41.790524]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Geo YouthMappers Mapathon",
+        "url": "http://0.0.0.0:4000/event/geoyouthmappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.5813539, 0.3177137]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Looniverse Mapathon",
+        "url": "http://0.0.0.0:4000/event/looniverse/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.991, 48.39645]
       }
     },
     
@@ -386,6 +482,22 @@
     },
     
     
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Unique Mappers Team Mapathon",
+        "url": "http://0.0.0.0:4000/event/umt/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.92463, 4.90093]
+      }
+    },
     
     
     {
