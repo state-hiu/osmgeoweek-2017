@@ -85,6 +85,38 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "UCC Youthmappers Mapathon",
+        "url": "http://0.0.0.0:4000/event/uccyouthmappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.203, 5.1294]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Uganda Pentecostal University Mapathon",
+        "url": "http://0.0.0.0:4000/event/ugandapentecostaluniversity/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.27354, 0.63925]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Open FTK Mapathon",
         "url": "http://0.0.0.0:4000/event/osmmg/",
         
@@ -350,6 +382,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-87.602854, 41.790524]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Exeter Mapathon",
+        "url": "http://0.0.0.0:4000/event/uofexeter/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.5252, 50.7361]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IFRC Mapathon",
+        "url": "http://0.0.0.0:4000/event/ifrc/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0956138, 46.2192289]
       }
     },
     
@@ -638,6 +702,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [4.38622, 45.545085]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OpenStreetMap Reunion Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmreunion/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.49142, -21.33994]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kathmandu Living Labs, Dhading Mapathon",
+        "url": "http://0.0.0.0:4000/event/kathmandulivinglabsdhading/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.8885, 27.91157]
       }
     },
     
