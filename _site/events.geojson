@@ -389,6 +389,38 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "University of Waterloo Mapathon",
+        "url": "http://0.0.0.0:4000/event/universityofwaterloo/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.5413, 43.4718]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "William & Mary Youth Mappers Mapathon",
+        "url": "http://0.0.0.0:4000/event/williamandmary/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.71593, 37.26984]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of Exeter Mapathon",
         "url": "http://0.0.0.0:4000/event/uofexeter/",
         
