@@ -3,7 +3,7 @@ layout: event
 title: "thinkWhere Mapathon"
 date: 2017-11-15
 pre-event: false
-time: "6:00pm-7:30pm
+time: "6:00pm-7:30pm"
 speaker:
 twitter: ""
 organization: thinkWhere
