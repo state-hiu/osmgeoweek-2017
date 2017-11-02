@@ -139,7 +139,7 @@ input[type='submit'],
   padding:5px 10px;
   }
   .highlight:hover {
-    background-color:#68c7dd;
+    background-color:rgba(104, 221, 144, 0.5);
     }
 
 .dark a {

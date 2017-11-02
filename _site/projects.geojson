@@ -7,6 +7,43 @@
       {
       "type": "Feature",
       "properties": {
+        "title": "Building Canada 2020",
+        "url": "http://0.0.0.0:4000/project/bc2020"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates":[
+          [
+            [
+              ,
+              
+            ],
+            [
+              ,
+              
+            ],
+            [
+              ,
+              
+            ],
+            [
+              ,
+              
+            ],
+            [
+              ,
+              
+            ]
+          ]
+        ]
+      }
+    }
+    
+     
+      
+      ,{
+      "type": "Feature",
+      "properties": {
         "title": "Quảng Ngãi, Vietnam - Missing Maps",
         "url": "http://0.0.0.0:4000/project/quang_ngai"
       },

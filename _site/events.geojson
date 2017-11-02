@@ -85,6 +85,54 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Open Street Map Brisbane Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmbrisbane/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.9931, -27.48562]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Everlast Youth Mappers Kumi Mapathon",
+        "url": "http://0.0.0.0:4000/event/everlastyouthmappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.8635662, 1.4729485]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Open Labs Hackerspace Mapathon",
+        "url": "http://0.0.0.0:4000/event/openlabshackerspace/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.82939, 41.32143]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "UCC Youthmappers Mapathon",
         "url": "http://0.0.0.0:4000/event/uccyouthmappers/",
         
@@ -222,6 +270,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-13.7094, 9.5096]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OMG McGill Mapathon",
+        "url": "http://0.0.0.0:4000/event/mcgilluniversity/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.57495, 45.50479]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "American Red Cross Colombia Mapathon",
+        "url": "http://0.0.0.0:4000/event/arccolombia/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0661, 4.60152]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mapbox Peru Mapathon",
+        "url": "http://0.0.0.0:4000/event/mapboxperu/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.2178934, -13.155846]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carleton University Mapathon",
+        "url": "http://0.0.0.0:4000/event/carletonu/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.695, 45.386]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "American Red Cross Mapathon",
+        "url": "http://0.0.0.0:4000/event/arcis/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1298, 33.7967]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of South Carolina Mapathon",
+        "url": "http://0.0.0.0:4000/event/universitysouthcarolina/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.02616, 33.99619]
       }
     },
     
@@ -382,6 +526,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-87.602854, 41.790524]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Humanitarian OpenStreetMap Team Mapathon",
+        "url": "http://0.0.0.0:4000/event/humanitarianosmteam/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.5063, 10.4179]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anime In Northwest Ohio Mapathon",
+        "url": "http://0.0.0.0:4000/event/animeinnwohio/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.6351543, 41.3766388]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UCLA Mapathon",
+        "url": "http://0.0.0.0:4000/event/ucla/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.44159, 34.07483]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "PoliMappers Mapathon",
+        "url": "http://0.0.0.0:4000/event/polimappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.22701, 45.74816]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "thinkWhere Mapathon",
+        "url": "http://0.0.0.0:4000/event/thinkwhere/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.96025, 56.12835]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mapping D.C. Mapathon",
+        "url": "http://0.0.0.0:4000/event/mappingdc/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0001, 38.8941]
       }
     },
     
@@ -709,6 +949,71 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "OSMGeoWeek Mapathon at National Geographic Society",
+        "url": "http://0.0.0.0:4000/event/natgeo/",
+        
+        "marker-color": "#00beec",
+        "marker-size": "large"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0375734, 38.9052276]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Delaware Mapathon",
+        "url": "http://0.0.0.0:4000/event/uofdelaware/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.74896216392517, 39.68019783496857]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "US Census Bureau Mapathon",
+        "url": "http://0.0.0.0:4000/event/uscensusbureau/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.93140864372253, 38.84717747569084]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Disastermappers Heidelberg/GIScience Research Group Mapathon",
+        "url": "http://0.0.0.0:4000/event/disastermappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6688927, 49.417645]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of Bologna Mapathon",
         "url": "http://0.0.0.0:4000/event/universityofbologna/",
         
@@ -734,6 +1039,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [4.38622, 45.545085]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Returned Peace Corps Volunteers of Washington D.C. Mapathon",
+        "url": "http://0.0.0.0:4000/event/returnedpeacecorps/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0146, 38.8938]
       }
     },
     
@@ -770,6 +1091,38 @@
     },
     
     
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "YouthMappers at Eastern University Mapathon",
+        "url": "http://0.0.0.0:4000/event/youthmapperseasteru/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.38129, 23.74008]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CrisisMappers Japan Mapathon",
+        "url": "http://0.0.0.0:4000/event/crisismappersjapan/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.5067, 34.7078]
+      }
+    },
     
     
     {
@@ -912,6 +1265,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-8.8176068, 7.7579345]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OpenStreetMapMexico Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmmexico/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.1407449, 19.4335491]
       }
     },
     
