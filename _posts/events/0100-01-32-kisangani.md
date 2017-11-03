@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Open Street Map RDC Mapathon"
+title: "Open Street Map RDC Mapathon Kisangani"
 date: 2017-11-11
 pre-event: true
 time: ""
