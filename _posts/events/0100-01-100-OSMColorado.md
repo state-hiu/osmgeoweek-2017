@@ -15,5 +15,6 @@ published: true
 lat: 39.6980668
 lon: -105.0823302
 ---
+
 OSM-Colorado: Validation Mapathon for Puerto Rico
 [Sign Up Here](https://www.meetup.com/OSM-Colorado/events/244796609/)
