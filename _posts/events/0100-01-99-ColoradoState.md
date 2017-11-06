@@ -15,5 +15,6 @@ published: true
 lat: 40.57383
 lon: -105.08450
 ---
+
 In cooperation with the Ger Community Mapping Center, this mapathon will focus on mapping areas in the Arkhangai region of Mongolia. Bring your laptop, as we will be mapping in the Ramskeller at the Lory Student Center.
 [Sign Up Here](http://gis.colostate.edu)
