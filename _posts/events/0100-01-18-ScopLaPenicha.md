@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "CartONG Mapathon"
+title: "Mapathon Missing Maps Grenoble @ La Péniche"
 date: 2017-11-15
 pre-event: false
 time: "6:30pm-9:30pm"
