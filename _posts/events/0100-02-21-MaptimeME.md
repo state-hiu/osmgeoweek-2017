@@ -17,4 +17,4 @@ lon: -70.25156
 ---
 　
 OSM Fall Mapathon: Missing Maps
-[Sign Up Here](https://www.un-ihe.org/openstreetmap-geoweek-mapathon-0)
+[Sign Up Here](https://www.meetup.com/MaptimeME/events/242190014/?eventId=242190014)
