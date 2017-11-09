@@ -1,5 +1,5 @@
 ---
-title: 'Quảng Ngãi, Vietnam - Missing Maps' 
+title: 'Quảng Ngãi, Vietnam – Missing Maps' 
 subtitle: "Increasing the resilience and capacities of 24 disaster prone communes"
 category: project
 layout: project

@@ -133,6 +133,38 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Lamba Labs Beirut Hackerspace Mapathon",
+        "url": "http://0.0.0.0:4000/event/lambalabs/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.4838401, 33.8984966]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Naksha Mapathon",
+        "url": "http://0.0.0.0:4000/event/naksha/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.12558, 18.98872]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Maptime ME Mapathon",
         "url": "http://0.0.0.0:4000/event/maptimeme/",
         
@@ -389,6 +421,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Mapbox Bengaluru Mapathon",
+        "url": "http://0.0.0.0:4000/event/mapboxbengaluru/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.6405126, 12.9813016]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "HOT Indonesia Mapathon",
         "url": "http://0.0.0.0:4000/event/hotindonesia/",
         
@@ -581,6 +629,38 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Mapbox SF Mapathon",
+        "url": "http://0.0.0.0:4000/event/mapboxsf/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3998631, 37.7884307]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "American Red Cross Mapathon",
+        "url": "http://0.0.0.0:4000/event/arccolombia/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.05481, 4.66368]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "IHE Delft Institute for Water Education Mapathon",
         "url": "http://0.0.0.0:4000/event/ihedelft/",
         
@@ -734,6 +814,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-87.602854, 41.790524]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GeoSTL Mapathon",
+        "url": "http://0.0.0.0:4000/event/geostl/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2087, 38.6574]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ASPRS Student Chapter at UGA Mapathon",
+        "url": "http://0.0.0.0:4000/event/asprsuga/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.37368, 33.95405]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Calgary Mapathon",
+        "url": "http://0.0.0.0:4000/event/calgary/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.1287077, 51.0784038]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Phandeeyar Mapathon",
+        "url": "http://0.0.0.0:4000/event/phandeeyar/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.1352, 16.8302]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Santa Clara Valley Transportation Authority Mapathon",
+        "url": "http://0.0.0.0:4000/event/santaclaravalley/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.93923, 37.39997]
       }
     },
     
@@ -1635,6 +1795,70 @@
     },
     
     
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Code for Osaka Mapathon",
+        "url": "http://0.0.0.0:4000/event/codeforosaka/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.51649, 34.74054]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "American Red Cross National Young Professionals Council Mapathon",
+        "url": "http://0.0.0.0:4000/event/arcnationalyoung/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.87, 41.221]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM Patan Bhatti Crawl Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmpatan/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3248069, 27.6736747]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Code for San Jose Mapathon",
+        "url": "http://0.0.0.0:4000/event/codeforsanjose/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.8886094, 37.3348952]
+      }
+    },
     
     
     {

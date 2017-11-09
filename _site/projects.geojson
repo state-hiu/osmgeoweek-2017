@@ -7,6 +7,43 @@
       {
       "type": "Feature",
       "properties": {
+        "title": "Ngapudaw, Myanmar – Missing Maps",
+        "url": "http://0.0.0.0:4000/project/ngapuda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates":[
+          [
+            [
+              ,
+              
+            ],
+            [
+              ,
+              
+            ],
+            [
+              ,
+              
+            ],
+            [
+              ,
+              
+            ],
+            [
+              ,
+              
+            ]
+          ]
+        ]
+      }
+    }
+    
+     
+      
+      ,{
+      "type": "Feature",
+      "properties": {
         "title": "CartONG Supported Projects",
         "url": "http://0.0.0.0:4000/project/cartong"
       },
@@ -81,7 +118,7 @@
       ,{
       "type": "Feature",
       "properties": {
-        "title": "Quảng Ngãi, Vietnam - Missing Maps",
+        "title": "Quảng Ngãi, Vietnam – Missing Maps",
         "url": "http://0.0.0.0:4000/project/quang_ngai"
       },
       "geometry": {
@@ -118,7 +155,7 @@
       ,{
       "type": "Feature",
       "properties": {
-        "title": "Nsabwe, Malawi - Missing Maps",
+        "title": "Nsabwe, Malawi – Missing Maps",
         "url": "http://0.0.0.0:4000/project/nsanje"
       },
       "geometry": {
@@ -193,7 +230,7 @@
       "type": "Feature",
       "properties": {
         "title": "PEPFAR Uganda",
-        "url": "http://0.0.0.0:4000/project/pepfar-kenya"
+        "url": "http://0.0.0.0:4000/project/pepfar-uganda"
       },
       "geometry": {
         "type": "Polygon",
