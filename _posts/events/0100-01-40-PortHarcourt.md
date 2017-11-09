@@ -18,4 +18,4 @@ lon: 6.92463
 
 # UniqueMappersTeam(UMT)University of Port Harcourt
 
-The UniqueMappersTeam(UMT) University of Port Harcout will be holding an OSMGeoWeek mapathon called "Let's Map Our World" 2017. Activities for Sunday will include: Sunday,12th November: Maps.Me to your Church
+The UniqueMappersTeam(UMT) University of Port Harcout will be holding an OSMGeoWeek mapathon called "Let's Map Our World" 2017. Activities for Sunday will include: Maps.Me to your Church
