@@ -12,7 +12,7 @@ tags:
   - thursday 
 category: event
 published: true
-lat: 74.05481
+lat: 4.66368
 lon: -74.05481
 ---
 　
