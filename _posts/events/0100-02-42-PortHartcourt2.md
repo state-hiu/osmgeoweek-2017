@@ -1,0 +1,21 @@
+---
+layout: event
+title: "Unique Mappers Team Mapathon"
+date: 2017-11-13
+pre-event: false
+time: ""
+speaker:
+twitter: ""
+organization: Unique Mappers Team
+permalink: event/umt1113/
+tags:
+  - monday
+category: event
+published: true
+lat: 4.90093
+lon: 6.92463
+---
+　
+# UniqueMappersTeam(UMT)University of Port Harcourt
+　
+The UniqueMappersTeam(UMT) University of Port Harcout will be holding an OSMGeoWeek mapathon called "Let's Map Our World" 2017. Activities for Monday will include: Campus Rally, Smart Students Campaign, and Leadership Training.
