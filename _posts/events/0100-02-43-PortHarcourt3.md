@@ -7,7 +7,7 @@ time: ""
 speaker:
 twitter: ""
 organization: Unique Mappers Team
-permalink: event/umt1114
+permalink: event/umt1114/
 tags:
   - tuesday
 category: event
