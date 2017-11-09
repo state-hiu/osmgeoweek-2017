@@ -1,12 +1,12 @@
 ---
 title: 'PEPFAR Uganda' 
-subtitle: "U.S. President's Emergency Plan for AIDS Relief (PEPFAR) requests assistance to inventory buildings and roads for HIV/AIDS prevention and treatment programs in Kenya"
+subtitle: "U.S. President's Emergency Plan for AIDS Relief (PEPFAR) requests assistance to inventory buildings and roads for HIV/AIDS prevention and treatment programs in Uganda"
 category: project
 layout: project
-thumbnail: 'http://osmgeoweek.org/img/logos/kenya_pepfar_logo.jpg'
+thumbnail: 'http://osmgeoweek.org/img/logos/uganda_pepfar_logo.jpg'
 tags:
   - remote
-permalink: project/pepfar-kenya
+permalink: project/pepfar-uganda
 aoi:
   - north: 36.942695
     south: 36.841069
