@@ -9,7 +9,7 @@ twitter: ""
 organization: Unique Mappers Team
 permalink: event/umt1115/
 tags:
-  - tuesday
+  - wednesday
 category: event
 published: true
 lat: 4.90093
