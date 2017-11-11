@@ -8,7 +8,7 @@
       "type": "Feature",
       "properties": {
         "title": "Ngapudaw, Myanmar – Missing Maps",
-        "url": "http://0.0.0.0:4000/project/ngapuda"
+        "url": "http://localhost:4000/project/ngapuda"
       },
       "geometry": {
         "type": "Polygon",
@@ -45,7 +45,7 @@
       "type": "Feature",
       "properties": {
         "title": "CartONG Supported Projects",
-        "url": "http://0.0.0.0:4000/project/cartong"
+        "url": "http://localhost:4000/project/cartong"
       },
       "geometry": {
         "type": "Polygon",
@@ -82,7 +82,7 @@
       "type": "Feature",
       "properties": {
         "title": "Building Canada 2020",
-        "url": "http://0.0.0.0:4000/project/bc2020"
+        "url": "http://localhost:4000/project/bc2020"
       },
       "geometry": {
         "type": "Polygon",
@@ -119,7 +119,7 @@
       "type": "Feature",
       "properties": {
         "title": "Quảng Ngãi, Vietnam – Missing Maps",
-        "url": "http://0.0.0.0:4000/project/quang_ngai"
+        "url": "http://localhost:4000/project/quang_ngai"
       },
       "geometry": {
         "type": "Polygon",
@@ -156,7 +156,7 @@
       "type": "Feature",
       "properties": {
         "title": "Nsabwe, Malawi – Missing Maps",
-        "url": "http://0.0.0.0:4000/project/nsanje"
+        "url": "http://localhost:4000/project/nsanje"
       },
       "geometry": {
         "type": "Polygon",
@@ -193,7 +193,7 @@
       "type": "Feature",
       "properties": {
         "title": "Crowd2Map",
-        "url": "http://0.0.0.0:4000/project/crowd2map"
+        "url": "http://localhost:4000/project/crowd2map"
       },
       "geometry": {
         "type": "Polygon",
@@ -230,7 +230,7 @@
       "type": "Feature",
       "properties": {
         "title": "PEPFAR Uganda",
-        "url": "http://0.0.0.0:4000/project/pepfar-uganda"
+        "url": "http://localhost:4000/project/pepfar-uganda"
       },
       "geometry": {
         "type": "Polygon",
@@ -267,7 +267,7 @@
       "type": "Feature",
       "properties": {
         "title": "PEPFAR Tanzania",
-        "url": "http://0.0.0.0:4000/project/pepfar-tanzania"
+        "url": "http://localhost:4000/project/pepfar-tanzania"
       },
       "geometry": {
         "type": "Polygon",
@@ -304,7 +304,7 @@
       "type": "Feature",
       "properties": {
         "title": "PEPFAR Uganda",
-        "url": "http://0.0.0.0:4000/project/pepfar-uganda"
+        "url": "http://localhost:4000/project/pepfar-uganda"
       },
       "geometry": {
         "type": "Polygon",
