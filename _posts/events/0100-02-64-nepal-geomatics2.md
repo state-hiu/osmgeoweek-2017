@@ -9,7 +9,7 @@ twitter: ""
 organization: Nepal Geomatics Engineering Society
 permalink: event/nepal-geomatics2/
 tags:
-  - wednesday
+  - tuesday
 category: event
 published: true
 lat: 27.6156
