@@ -1,6 +1,6 @@
 ---
 layout: event 
-title: "Phandeeyar Mapathon"
+title: "Myanmar OSM Mapathon"
 date: 2017-11-15
 pre-event: false
 time: "1:00pm-5:00pm"

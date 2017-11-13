@@ -3,7 +3,7 @@ layout: event
 title: "HOT-OSM Finland Mapathon"
 date: 2017-11-18
 pre-event: false
-time: "3:30-6:30pm"
+time: "3:00-6:00pm"
 speaker: 
 twitter: ""
 organization: "HOT-OSM Finland" 
