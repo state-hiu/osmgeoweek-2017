@@ -12,8 +12,8 @@ tags:
   - wednesday
 category: event
 published: true
-lat: 45.74816
-lon: 9.22701
+lat: 45.478085
+lon: 9.2235021
 ---
 　
 We are organizing a humanitarian mapping session using the new tasking manager of Humanitarian OpenStreetMap (HOT) and everyone is invited to join us! There will be tasks for everyone (beginner, intermediate and advanced) and you will be guided by PoliMappers members in discovering how easy it is to bring your contribution to the open map of the world.
