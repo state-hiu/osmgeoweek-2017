@@ -2,7 +2,7 @@
 layout: event 
 title: "Missing Maps Liverpool Mapathon"
 date: 2017-11-15
-pre-event: true
+pre-event: false
 time: "4:00pm-7:00pm"
 speaker:
 twitter: ""
