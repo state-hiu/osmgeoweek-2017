@@ -2,7 +2,7 @@
 layout: event 
 title: "Netherlands Red Cross Mapathon"
 date: 2017-11-16
-pre-event: true
+pre-event: false
 time: "6:00pm-9:00pm"
 speaker:
 twitter: ""
