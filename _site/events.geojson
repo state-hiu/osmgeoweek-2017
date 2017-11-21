@@ -21,6 +21,70 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "MapPH & OSM Philippines Mapathon",
+        "url": "http://0.0.0.0:4000/event/mapphosm/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.01847, 14.54228]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "World Food Programme Mapathon",
+        "url": "http://0.0.0.0:4000/event/wfp/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.83663, -6.18561]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MapAmore Mapathon",
+        "url": "http://0.0.0.0:4000/event/mapamre/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.91086, 10.35491]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alleyn's School Mapathon",
+        "url": "http://0.0.0.0:4000/event/alleynschool",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.08095, 51.45402]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ecoexplora Consultoria S.A.S. Mapathon",
         "url": "http://0.0.0.0:4000/event/ecoexplora/",
         
@@ -117,6 +181,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Maisha Mapathon",
+        "url": "http://0.0.0.0:4000/event/maisha/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.51518, 0.3261]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "OSGeo Sri Lanka Chapter Mapathon",
         "url": "http://0.0.0.0:4000/event/osgeosrilanka/",
         
@@ -158,6 +238,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [33.1989861, 0.4243084]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OpenStreetMap Cote d'Ivorie Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmcotedivorie/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.0298408, 7.6906058]
       }
     },
     
@@ -478,6 +574,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-13.7094, 9.5096]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Youthmappers Chapter at the University of Oregon Mapathon",
+        "url": "http://0.0.0.0:4000/event/uoforegon/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.071, 44.0441]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Humanitarian Mapping Society Mapathon",
+        "url": "http://0.0.0.0:4000/event/hms/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0056, 38.8981]
       }
     },
     
@@ -821,6 +949,118 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Kingsdale Foundation School Mapathon",
+        "url": "http://0.0.0.0:4000/event/kingsdalefoundationschool/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.08445, 51.4324]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Netherlands Red Cross Mapathon",
+        "url": "http://0.0.0.0:4000/event/netherlandsredcross/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.35678, 52.00893]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Perse School Mapathon",
+        "url": "http://0.0.0.0:4000/event/perseschool/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.14005, 52.18114]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Students Geographical Association Mapathon",
+        "url": "http://0.0.0.0:4000/event/sgayouthmappers/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.22099, 8.47702]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "FCCU University Mapathon",
+        "url": "http://0.0.0.0:4000/event/fccu/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.333823, 31.5219439]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OSM Burkina Faso Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmburkinafaso/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.51254, 12.36972]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CartONG Mapathon",
+        "url": "http://0.0.0.0:4000/event/cartongparis2/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35075, 48.86797]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "OSM GeoWeek Machine Learning Mapathon",
         "url": "http://0.0.0.0:4000/event/devseed/",
         
@@ -1054,6 +1294,150 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-87.602854, 41.790524]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Missing Maps Liverpool Mapathon",
+        "url": "http://0.0.0.0:4000/event/mmliverpool/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.963, 53.4045]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "HotOSM Cambridge Mapathon",
+        "url": "http://0.0.0.0:4000/event/hotosmcambridge/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1265, 52.1977]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta College Mapathon",
+        "url": "http://0.0.0.0:4000/event/shastacollege/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.39129, 40.58478]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CartONG Mapathon",
+        "url": "http://0.0.0.0:4000/event/cartongbordeaux/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5814, 44.8637]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CartONG Mapathon",
+        "url": "http://0.0.0.0:4000/event/cartongpau/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.3435, 43.322]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CartONG Mapathon",
+        "url": "http://0.0.0.0:4000/event/cartongrennes/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.67388, 48.10462]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CartONG Mapathon",
+        "url": "http://0.0.0.0:4000/event/cartongtoulouse/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.4416806, 43.6023228]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Universidad de Antioquia Mapathon",
+        "url": "http://0.0.0.0:4000/event/antioquia2/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.56883, 6.26763]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Universidad de Antioquia Mapathon",
+        "url": "http://0.0.0.0:4000/event/antioquia/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.56883, 6.26763]
       }
     },
     
@@ -1549,7 +1933,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [9.22701, 45.74816]
+        "coordinates": [9.2235021, 45.478085]
       }
     },
     
@@ -1573,7 +1957,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mapping D.C. Mapathon",
+        "title": "MappingDC Mapathon",
         "url": "http://0.0.0.0:4000/event/mappingdc/",
         
          "marker-color": "#00beec"
@@ -1902,6 +2286,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [0.11477, 52.2046]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Masaryk University Mapathon",
+        "url": "http://0.0.0.0:4000/event/masaryk/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.59811, 49.20418]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CartONG Mapathon",
+        "url": "http://0.0.0.0:4000/event/cartonggeneve/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.141184, 46.210523]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OpenStreetMap Senegal Mapathon",
+        "url": "http://0.0.0.0:4000/event/osmsenegal/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-17.447938, 14.693425]
       }
     },
     
@@ -2593,6 +3025,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-123.31423, 48.46463]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Purdue University Libraries Mapathon",
+        "url": "http://0.0.0.0:4000/event/purdueuniversity/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.9255, 40.4321]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MÃ©decins Sans FrontiÃ¨res Mapathon",
+        "url": "http://0.0.0.0:4000/event/sanfrontia/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.8513, 43.35478]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Development Department - University Palacky Olomouc Mapathon",
+        "url": "http://0.0.0.0:4000/event/palackyolomouc/",
+        
+         "marker-color": "#00beec"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.26365, 49.59237]
       }
     },
     

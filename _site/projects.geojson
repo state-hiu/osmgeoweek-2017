@@ -118,7 +118,7 @@
       ,{
       "type": "Feature",
       "properties": {
-        "title": "CartONG Supported Projects",
+        "title": "Synergies francophones",
         "url": "http://0.0.0.0:4000/project/cartong"
       },
       "geometry": {
