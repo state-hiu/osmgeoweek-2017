@@ -1,1 +1,1 @@
-# osmgeoweek-2016
+# osmgeoweek-2017
